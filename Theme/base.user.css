@@ -1,0 +1,12 @@
+.CodeMirror-wrap .CodeMirror-code pre {
+	font-family: Source Code Pro Semibold;
+}
+
+body {
+	--monospace: Source Code Pro Semibold;
+	font-family: Crimson Text;
+}
+
+code {
+  font-family: Courier New;
+}
