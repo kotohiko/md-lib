@@ -4,7 +4,7 @@ https://learn.microsoft.com/en-us/dotnet/csharp/
 
 
 
-# [Get started](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
+# Get started
 
 
 
@@ -51,6 +51,28 @@ class Hello
 
 ## [Types - C# types and members](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types)
 
+作为 OOP 语言，C#（同样地，也）具有封装、继承与多态的特性。
+
+在 C# 中，struct 是一种轻量级的类；也是「栈分配」类型，可以实现接口，但不支持继承。C# 提供了 `record class` 与 `record struct` 类型，它们的用途主要在于存储数据值。
+
+### Classes and objects
+
+#### Type parameters
+
+#### Base classes
+
+### Structs
+
+### Interfaces
+
+### Enums
+
+### Nullable types
+
+### Tuples
+
+C# 支持[元组（*tuples*）](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-tuples)，
+
 
 
 ## [Program building blocks - C# program building blocks](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/program-building-blocks)
@@ -69,11 +91,43 @@ class Hello
 
 
 
-# [Fundamentals](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/)
+# Fundamentals
 
 
 
-## [Program structure - General Structure of a C# Program](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/)
+## Program structure - General Structure of a C# Program
+
+
+
+## Type system
+
+
+
+## Object-oriented programming
+
+
+
+## Functional techniques
+
+
+
+## Exceptions and errors
+
+
+
+## Coding style
+
+### C# identifier names
+
+
+
+### C# coding conventions
+
+
+
+
+
+
 
 
 
@@ -89,7 +143,15 @@ class Hello
 
 
 
-# [What's new in C#](https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/)
+
+
+
+
+
+
+
+
+# What's new in C#
 
 
 
@@ -103,21 +165,19 @@ class Hello
 
 
 
-# [Tutorials](https://learn.microsoft.com/en-us/dotnet/csharp/tutorials/)
+# Tutorials
 
 
 
-# [Language Integrated Query (LINQ)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
-
-
-
-## [Overview of LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
+# Language Integrated Query (LINQ)
 
 
 
 ### [Query expression overview](https://learn.microsoft.com/en-us/dotnet/csharp/linq/#how-to-enable-linq-querying-of-your-data-source)
 
 
+
+## [Overview of LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
 
 
 
@@ -129,9 +189,19 @@ class Hello
 
 
 
-## [Getting Started with LINQ in C#](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/introduction-to-linq-queries)
 
 
+## Getting Started with LINQ in C#
+
+
+
+### [Introduction to LINQ queries](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/introduction-to-linq-queries)
+
+
+
+## Standard query operators
+
+### [Overview](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview)
 
 
 
@@ -139,11 +209,38 @@ class Hello
 
 ### [Introduction to LINQ Queries (C#)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/introduction-to-linq-queries)
 
-*query* 是一种从数据源中检索数据的表达式。不同的数据源有不同的本地查询语言，例如关系型数据库是 SQL 而 XML 是 XQuery。这也就意味着，开发人员需要为每一种类型的数据源或数据格式去学习新的查询语言。LINQ 通过提供了一种跨越多种数据源或格式，也能始终一致的 C# 语言模型，化解了这一难题。通过使用 LINQ，你可以只与 C# 对象打交道。你可以使用基本的编码方式来查询、转换 XML 文档、SQL 数据库、.NET 集合中的数据以及任何其他格式的数据。
+*query* 是一种从数据源中检索数据的表达式。在实际开发中，不同的数据源有不同的本地查询语言，例如关系型数据库是 SQL 而 XML 是 XQuery。这也就意味着，开发人员需要为每一种类型的数据源或数据格式去学习新的查询语言。
 
-
+LINQ 通过提供了一种跨越多种数据源或格式，也能始终一致的 C# 语言模型，化解了这一难题。通过使用 LINQ，你可以只与 C# 对象打交道。你可以使用基本的编码方式来查询、转换 XML 文档、SQL 数据库、.NET 集合中的数据以及任何其他格式的数据。
 
 #### Three Parts of a Query Operation
+
+所有的 LINQ 查询操作由以下三种操作组成：
+
+1. 获取数据源。
+2. 创建查询。
+3. 执行查询。
+
+以下示例给我们展现了这三个部分在源代码中的具体表现形式。为了便捷，示例中使用了整数数组作为数据源；然而实际上，对其他数据源也是同样的概念。此案例将会贯穿本文余下内容。
+
+```c#
+// The Three Parts of a LINQ Query:
+// 1. Data source.
+int[] numbers = [ 0, 1, 2, 3, 4, 5, 6 ];
+
+// 2. Query creation.
+// numQuery is an IEnumerable<int>
+var numQuery =
+    from num in numbers
+    where (num % 2) == 0
+    select num;
+
+// 3. Query execution.
+foreach (int num in numQuery)
+{
+    Console.Write("{0,1} ", num);
+}
+```
 
 
 
@@ -165,9 +262,111 @@ class Hello
 
 
 
+## [Overview - Asynchronous programming with async and await](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)
 
 
 
+```c#
+using System;
+using System.Threading.Tasks;
+
+namespace AsyncBreakfast
+{
+    // These classes are intentionally empty for the purpose of this example. They are simply marker classes for the purpose of demonstration, contain no properties, and serve no other purpose.
+    internal class Bacon { }
+    internal class Coffee { }
+    internal class Egg { }
+    internal class Juice { }
+    internal class Toast { }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Coffee cup = PourCoffee();
+            Console.WriteLine("coffee is ready");
+
+            Egg eggs = FryEggs(2);
+            Console.WriteLine("eggs are ready");
+
+            Bacon bacon = FryBacon(3);
+            Console.WriteLine("bacon is ready");
+
+            Toast toast = ToastBread(2);
+            ApplyButter(toast);
+            ApplyJam(toast);
+            Console.WriteLine("toast is ready");
+
+            Juice oj = PourOJ();
+            Console.WriteLine("oj is ready");
+            Console.WriteLine("Breakfast is ready!");
+        }
+
+        private static Juice PourOJ()
+        {
+            Console.WriteLine("Pouring orange juice");
+            return new Juice();
+        }
+
+        private static void ApplyJam(Toast toast) =>
+            Console.WriteLine("Putting jam on the toast");
+
+        private static void ApplyButter(Toast toast) =>
+            Console.WriteLine("Putting butter on the toast");
+
+        private static Toast ToastBread(int slices)
+        {
+            for (int slice = 0; slice < slices; slice++)
+            {
+                Console.WriteLine("Putting a slice of bread in the toaster");
+            }
+            Console.WriteLine("Start toasting...");
+            Task.Delay(3000).Wait();
+            Console.WriteLine("Remove toast from toaster");
+
+            return new Toast();
+        }
+
+        private static Bacon FryBacon(int slices)
+        {
+            Console.WriteLine($"putting {slices} slices of bacon in the pan");
+            Console.WriteLine("cooking first side of bacon...");
+            Task.Delay(3000).Wait();
+            for (int slice = 0; slice < slices; slice++)
+            {
+                Console.WriteLine("flipping a slice of bacon");
+            }
+            Console.WriteLine("cooking the second side of bacon...");
+            Task.Delay(3000).Wait();
+            Console.WriteLine("Put bacon on plate");
+
+            return new Bacon();
+        }
+
+        private static Egg FryEggs(int howMany)
+        {
+            Console.WriteLine("Warming the egg pan...");
+            Task.Delay(3000).Wait();
+            Console.WriteLine($"cracking {howMany} eggs");
+            Console.WriteLine("cooking the eggs ...");
+            Task.Delay(3000).Wait();
+            Console.WriteLine("Put eggs on plate");
+
+            return new Egg();
+        }
+
+        private static Coffee PourCoffee()
+        {
+            Console.WriteLine("Pouring coffee");
+            return new Coffee();
+        }
+    }
+}
+```
+
+
+
+## [Asynchronous programming scenarios](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/async-scenarios)
 
 
 
@@ -183,7 +382,7 @@ class Hello
 
 
 
-# [How-to C# articles](https://learn.microsoft.com/en-us/dotnet/csharp/how-to/)
+# How-to C# articles
 
 
 
@@ -199,16 +398,16 @@ class Hello
 
 
 
-# [The .NET Compiler Platform SDK (Roslyn APIs)](https://learn.microsoft.com/en-us/dotnet/csharp/roslyn-sdk/)
+# The .NET Compiler Platform SDK (Roslyn APIs)
 
 
 
-# [C# programming guide](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+# C# programming guide
 
 
 
-# [Language reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
+# Language reference
 
 
 
-# [Specifications](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/specifications)
+# Specifications
