@@ -18,7 +18,7 @@ C# 强调**版控（*versioning*）**——好神奇，这如何强调Σ(⊙▽�
 
 ### [.NET architecture](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#net-architecture)
 
-
+C# 程序运行在 .NET 上，
 
 ### [Hello world](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#hello-world)
 
@@ -129,9 +129,35 @@ class Hello
 
 
 
-## Getting Started with LINQ in C#
+## [Getting Started with LINQ in C#](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/introduction-to-linq-queries)
 
 
+
+
+
+
+
+### [Introduction to LINQ Queries (C#)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/introduction-to-linq-queries)
+
+*query* 是一种从数据源中检索数据的表达式。不同的数据源有不同的本地查询语言，例如关系型数据库是 SQL 而 XML 是 XQuery。这也就意味着，开发人员需要为每一种类型的数据源或数据格式去学习新的查询语言。LINQ 通过提供了一种跨越多种数据源或格式，也能始终一致的 C# 语言模型，化解了这一难题。通过使用 LINQ，你可以只与 C# 对象打交道。你可以使用基本的编码方式来查询、转换 XML 文档、SQL 数据库、.NET 集合中的数据以及任何其他格式的数据。
+
+
+
+#### Three Parts of a Query Operation
+
+
+
+#### The Data Source
+
+
+
+#### The Query
+
+
+
+#### Query Execution
+
+##### Deferred Execution
 
 
 
