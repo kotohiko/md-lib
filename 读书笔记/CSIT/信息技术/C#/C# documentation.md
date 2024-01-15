@@ -51,6 +51,32 @@ class Hello
 
 类型（*type*）可以定义 C# 中的任何数据的结构和行为。
 
+- 值类型
+
+    - 简单类型
+        - [有符号整型](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)：`sbyte`、`short`、`int`、`long`
+        - 无符号类型
+        - [Unicode 字符](https://learn.microsoft.com/en-us/dotnet/standard/base-types/character-encoding-introduction)：
+        - IEEE 二进制浮点：
+        - 高精度十进制浮点数：
+        - 布尔值
+    - 枚举类型
+    - 结构类型
+    - 可以为 null 的值类型
+    - 元组值类型
+
+- 引用类型
+
+    - 类类型
+    - 接口类型
+        - 
+    - 数组类型
+        - 一维、多维与交错。例如：`int[]`、`int[,]` 和 `int[][]`
+    - 委托类型
+        - 格式为 `delegate int D(...)` 的用户定义类型
+
+    
+
 ### [Program structure](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#program-structure)
 
 
