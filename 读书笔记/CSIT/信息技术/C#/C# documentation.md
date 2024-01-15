@@ -18,7 +18,13 @@ C# 强调**版控（*versioning*）**——好神奇，这如何强调Σ(⊙▽�
 
 ### [.NET architecture](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#net-architecture)
 
-C# 程序运行在 .NET 上，
+C# 程序运行在 .NET 上，所谓 .NET 是一种名为**公共语言运行库（common language runtime，CLR）**的虚拟运行系统，并包含一系列类库。而 CLR 是 Microsoft 对公共语言基础结构（CLI）国际标准的实现。CLI 是创建执行和开发环境的基础，并且语言和库可以在其中无缝协同运转。
+
+
+
+
+
+> 
 
 ### [Hello world](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#hello-world)
 
@@ -37,11 +43,13 @@ class Hello
 
 `using` 指令表示引用了一个叫 `System` 的**命名空间（*namespace*）**。所谓「命名空间」提供了一种将 C# 程序和库整合起来的分层方法。命名空间包含了类型和其他命名空间——举个例子，`System` 命名空间包含了一些类型，比如程序中引用到的 `Console` 类，以及其他命名空间如 `IO`、`Collections`。
 
+程序第一行使用了 `using` 指令，意味着 `Console.WriteLine()` 就毋须写成 `System.Console.WriteLine()`。
 
+本程序中，`Hello` 类只有一个「成员」，也就是 `Main` 方法。与 Java 一样，`Main` 方法也是使用 `static` 来修饰。实例方法可以通过使用关键字 `this` 引用特定的封闭对象实例，而静态方法则可以在不引用特定对象的情况下运行。按照约定，`Main` 静态方法是 C# 程序的入口点。
 
 ### [Types and variables](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#types-and-variables)
 
-
+类型（*type*）可以定义 C# 中的任何数据的结构和行为。
 
 ### [Program structure](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#program-structure)
 
@@ -117,7 +125,17 @@ C# 支持[元组（*tuples*）](https://learn.microsoft.com/en-us/dotnet/csharp/
 
 ## Coding style
 
-### C# identifier names
+### [C# identifier names - C# identifier naming rules and conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/identifier-names)
+
+在 C# 中，标识符意味着可以给类型（包括类（class）、接口（interface）、结构（struct）、委托（delegate）、枚举（enum））、成员、变量或命名空间自定义名称。
+
+#### Naming rules
+
+
+
+#### Naming conventions
+
+
 
 
 
