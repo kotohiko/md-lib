@@ -20,7 +20,9 @@ C# 强调**版控（*versioning*）**——好神奇，这如何强调Σ(⊙▽�
 
 C# 程序运行在 .NET 上，所谓 .NET 是一种名为**公共语言运行库（common language runtime，CLR）**的虚拟运行系统，并包含一系列类库。而 CLR 是 Microsoft 对公共语言基础结构（CLI）国际标准的实现。CLI 是创建执行和开发环境的基础，并且语言和库可以在其中无缝协同运转。
 
+C# 源代码被会被编译成符合 CLI 规范的[中间语言（intermediate language，IL）](https://learn.microsoft.com/en-us/dotnet/standard/managed-code)。IL 代码和资源（如位图、字符串）会被存放在一个程序集里，通常扩展名为 *.dll*。程序集包含介绍自己本身的类型、版本和区域信息。
 
+当 C# 程序被执行时，程序集会被加载进 CLR。CLR 通过 JIT（Just-In-Time）来将 IL 代码转为本地机器指令。CLR 还可以提供自动垃圾回收、异常处理、以及资源管理等其他服务。
 
 
 
@@ -61,13 +63,15 @@ class Hello
         - [高精度十进制浮点数](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)：`decimal`
         - 布尔值：`bool`，表示布尔值（`true` 或 `false`）
     - [枚举类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/enum)
-        - `enum E {...}` 格式的用户定义类型。`enum`
+        - `enum E {...}` 格式的用户定义类型。`enum` 类型是一种包含已命名常量的独特类型。 每个 `enum` 类型都有一个基础类型（必须是八种整型类型之一）。 `enum` 类型的值集与基础类型的值集相同。
     - [结构类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/struct)
+        - 格式为 `struct S {...}` 的用户定义类型
     - [可以为 null 的值类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/nullable-value-types)
+        - 值为 `null` 的其他所有值类型的扩展
     - [元组值类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/value-tuples)
+        - 格式为 `(T1, T2, ...)` 的用户定义类型
 
 - [引用类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/reference-types)
-
     - [类类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/class)
         - 其他所有类型的最终基类：`object`
         - [Unicode 字符串](https://learn.microsoft.com/en-us/dotnet/standard/base-types/character-encoding-introduction)：`string`，表示 UTF-16 代码单元序列
@@ -80,9 +84,23 @@ class Hello
     - [委托类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/reference-types#the-delegate-type)
         - 格式为 `delegate int D(...)` 的用户定义类型
     
-    
+
+
+
+- `class` 类型可以定义数据结构，包含数据成员（域）和函数成员（方法、属性等等）。类类型支持单一继承和多态，也就是派生类可以延展和具体化基类的机制。
+- `struct` 类型与类类型相似，也包含数据成员及函数成员。然而，与类不同的是，结构是值类型，通常不需要堆分配。结构不支持用户定义的继承，所有结构均隐式继承自 `object` 类型。
+- `interface` 类型表示
+- `delegate` 类型
+
+
+
+
+
+
 
 ### [Program structure](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#program-structure)
+
+C# 中核心结构概念包括：[程序（*programs*）](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/program-structure/)、[命名空间（*namespaces*）](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/namespaces)、[类型（*types*）](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)、[成员（*members*）](https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/classes-and-structs/members)与[程序集（*assemblies*）](https://learn.microsoft.com/zh-cn/dotnet/standard/assembly/)。
 
 
 
@@ -96,17 +114,63 @@ class Hello
 
 ### Classes and objects
 
+
+
+```c#
+public class Point
+{
+    public int X { get; }
+    public int Y { get; }
+    
+    public Point(int x, int y) => (X, Y) = (x, y);
+}
+```
+
+
+
 #### Type parameters
 
 #### Base classes
 
+
+
 ### Structs
+
+
 
 ### Interfaces
 
+
+
 ### Enums
 
+[枚举（*enum*）](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/enum)类型定义了一组常数。以下代码中的 `enum` 表示声明了一个常数，定义了根不同的蔬菜：
+
+```c#
+public enum SomeRootVegetable
+{
+    HorseRadish,
+    Radish,
+    Turnip
+}
+```
+
+你也可以把 `enum` 当做标记，组合使用。以下代码声明了
+
 ### Nullable types
+
+任何变量的变量都可以被声明为**不可为空**或**可空**。一个可空的变量可以携带一个额外的 `null` 值，表明没有值。可空的值类型（结构或枚举）由 [`System.Nullable<T>`](https://learn.microsoft.com/en-us/dotnet/api/system.nullable-1?view=net-8.0) 来表示。
+
+
+
+```c#
+int? optionalInt = default; 
+optionalInt = 5;
+string? optionalText = default;
+optionalText = "Hello World.";
+```
+
+
 
 ### Tuples
 
@@ -115,6 +179,12 @@ C# 支持[元组（*tuples*）](https://learn.microsoft.com/en-us/dotnet/csharp/
 
 
 ## [Program building blocks - C# program building blocks](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/program-building-blocks)
+
+
+
+
+
+
 
 
 
