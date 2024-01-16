@@ -55,26 +55,31 @@ class Hello
 
     - 简单类型
         - [有符号整型](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)：`sbyte`、`short`、`int`、`long`
-        - 无符号类型
-        - [Unicode 字符](https://learn.microsoft.com/en-us/dotnet/standard/base-types/character-encoding-introduction)：
-        - IEEE 二进制浮点：
-        - 高精度十进制浮点数：
-        - 布尔值
-    - 枚举类型
-    - 结构类型
-    - 可以为 null 的值类型
-    - 元组值类型
+        - [无符号类型](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/integral-numeric-types)：`byte`、`ushort`、`uint`、`ulong`
+        - [Unicode 字符](https://learn.microsoft.com/en-us/dotnet/standard/base-types/character-encoding-introduction)：`char`，表示 UTF-16 代码单元
+        - [IEEE 二进制浮点](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)：`float`、`double`
+        - [高精度十进制浮点数](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/floating-point-numeric-types)：`decimal`
+        - 布尔值：`bool`，表示布尔值（`true` 或 `false`）
+    - [枚举类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/enum)
+        - `enum E {...}` 格式的用户定义类型。`enum`
+    - [结构类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/struct)
+    - [可以为 null 的值类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/nullable-value-types)
+    - [元组值类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/value-tuples)
 
-- 引用类型
+- [引用类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/reference-types)
 
-    - 类类型
-    - 接口类型
-        - 
-    - 数组类型
+    - [类类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/class)
+        - 其他所有类型的最终基类：`object`
+        - [Unicode 字符串](https://learn.microsoft.com/en-us/dotnet/standard/base-types/character-encoding-introduction)：`string`，表示 UTF-16 代码单元序列
+        - 格式为 `class C {...}` 的用户定义类型
+    
+    - [接口类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/keywords/interface)
+        - 格式为 `interface I {...}` 的用户定义类型
+    - [数组类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/programming-guide/arrays/)
         - 一维、多维与交错。例如：`int[]`、`int[,]` 和 `int[][]`
-    - 委托类型
+    - [委托类型](https://learn.microsoft.com/zh-cn/dotnet/csharp/language-reference/builtin-types/reference-types#the-delegate-type)
         - 格式为 `delegate int D(...)` 的用户定义类型
-
+    
     
 
 ### [Program structure](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#program-structure)
