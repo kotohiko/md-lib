@@ -22,11 +22,13 @@ C# 程序运行在 .NET 上，所谓 .NET 是一种名为**公共语言运行库
 
 C# 源代码被会被编译成符合 CLI 规范的[中间语言（intermediate language，IL）](https://learn.microsoft.com/en-us/dotnet/standard/managed-code)。IL 代码和资源（如位图、字符串）会被存放在一个程序集里，通常扩展名为 *.dll*。程序集包含介绍自己本身的类型、版本和区域信息。
 
-当 C# 程序被执行时，程序集会被加载进 CLR。CLR 通过 JIT（Just-In-Time）来将 IL 代码转为本地机器指令。CLR 还可以提供自动垃圾回收、异常处理、以及资源管理等其他服务。
+执行 C# 程序的时候，程序集会被加载进 CLR。CLR 通过 JIT（Just-In-Time）来将 IL 代码转为本地机器指令。CLR 还可以提供自动垃圾回收、异常处理、以及资源管理等其他服务。由 CLR 执行的代码有时会被称为「托管代码」。而「非托管代码」会被编译成面向特定平台的本机语言。
+
+「语言互动性」（英文为 language interoperability。相对正规一些的译名为「语言互操作性」，我觉得不好听，就不喜欢这个译名。）是 .NET 的核心特性之一。C# 编译器生成的 IL 代码符合公共类型规范（Common Type Specification，简称 CTS）。C# 产生的 IL 代码可以与由 .NET 版本的 F#、Visual Basic、C++ 生成的代码进行交互。还有超过 20 种与 CTS 兼容的语言。 单个程序集可以包含多个用各种 .NET 语言编写的模块。 这些类型可以相互引用，就像它们是用同一种语言编写的一样。
 
 
 
-> 
+
 
 ### [Hello world](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#hello-world)
 
@@ -49,9 +51,13 @@ class Hello
 
 本程序中，`Hello` 类只有一个「成员」，也就是 `Main` 方法。与 Java 一样，`Main` 方法也是使用 `static` 来修饰。实例方法可以通过使用关键字 `this` 引用特定的封闭对象实例，而静态方法则可以在不引用特定对象的情况下运行。按照约定，`Main` 静态方法是 C# 程序的入口点。
 
+
+
 ### [Types and variables](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#types-and-variables)
 
-类型（*type*）可以定义 C# 中的任何数据的结构和行为。
+**类型（*type*）**可以定义 C# 中的任何数据的结构和行为。类型的声明可以包含其成员、基类、它实现的接口、以及该类型允许的操作。
+
+C# 
 
 - 值类型
 
