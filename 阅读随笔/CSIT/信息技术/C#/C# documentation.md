@@ -296,7 +296,52 @@ C# 支持[元组（*tuples*）](https://learn.microsoft.com/en-us/dotnet/csharp/
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Language Integrated Query (LINQ)
+
+
+
+**Language-Integrated Query**（语言集成查询，简称 LINQ）是将一系列将查询功能集成到 C# 语言的技术统称。
+
+
+
+
+
+```c#
+// Specify the data source.
+int[] scores = { 97, 92, 81, 60 };
+
+// Define the query expression.
+IEnumerable<int> scoreQuery =
+    from score in scores
+    where score > 80
+    select score;
+
+// Execute the query.
+foreach (int i in scoreQuery)
+{
+    Console.Write(i + " ");
+}
+
+// Output: 97 92 81
+```
+
+
+
+
 
 
 
@@ -304,7 +349,27 @@ C# 支持[元组（*tuples*）](https://learn.microsoft.com/en-us/dotnet/csharp/
 
 
 
+
+
+
+
+
+
 ## [Overview of LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -319,16 +384,6 @@ C# 支持[元组（*tuples*）](https://learn.microsoft.com/en-us/dotnet/csharp/
 
 
 ## Getting Started with LINQ in C#
-
-
-
-### [Introduction to LINQ queries](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/introduction-to-linq-queries)
-
-
-
-## Standard query operators
-
-### [Overview](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview)
 
 
 
@@ -382,6 +437,32 @@ foreach (int num in numQuery)
 #### Query Execution
 
 ##### Deferred Execution
+
+
+
+### [Query expression basics](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/query-expression-basics)
+
+
+
+### [Write C# LINQ queries to query data](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/write-linq-queries)
+
+
+
+### [Type Relationships in LINQ Query Operations (C#)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/type-relationships-in-linq-query-operations)
+
+
+
+### [C# Features That Support LINQ](https://learn.microsoft.com/en-us/dotnet/csharp/linq/get-started/features-that-support-linq)
+
+
+
+
+
+## Standard query operators
+
+### [Overview](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/standard-query-operators-overview)
+
+
 
 
 
