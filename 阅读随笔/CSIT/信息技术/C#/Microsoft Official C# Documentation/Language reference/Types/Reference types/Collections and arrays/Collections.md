@@ -46,7 +46,7 @@ foreach (var salmon in salmons)
 
 
 
-## [Key/value pair collections](Key/value pair collections)
+## [Key/value pair collections](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections#keyvalue-pair-collections)
 
 C# 的字典集合为 [`Dictionary<TKey,TValue>`](https://learn.microsoft.com/en-us/dotnet/api/system.collections.generic.dictionary-2)。
 
