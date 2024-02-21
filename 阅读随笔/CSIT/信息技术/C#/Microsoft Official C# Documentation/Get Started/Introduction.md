@@ -1,24 +1,24 @@
-# A tour of the C# language
+# [A tour of the C# language](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
 
+文档里提到，说 C# 是 ***component-oriented*** 的，我暂译「面向组件」的，这于我而言又是一个全新的概念。根据文档中的解释，大概是说 C# 可以通过整合各种组件来迅速完成项目的交付。
 
+接下来讲的就是 C# 拥有的一些特性，差不多也都是 OOP 编程语言（或者说是 Java）固有的一些特性，如[**垃圾回收（*Garbage collection*）**](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/)、**[空类型（*Nullable types*）](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)**、[**异常处理（*Exception handling*）**](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)、[**lambda 表达式（*Lambda expressions*）**](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)等。而 *[**LINQ（Language Integrated Query）**](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)*倒是一个没听说过的概念，看简述大概是与数据源打交道的一种语法。此外，C# 中对[**异步操作（*asynchronous operations*）**](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)提供的支持可以有效地构建分布式系统。
 
-文档里竟然提到说 C# 是 ***component-oriented*** 的，我暂译「面向组件」的，于我而言又是一个全新的概念。根据文档中的解释大概是说 C# 可以通过各种组件来迅速完成项目的交付。
+C# 有一个[**统一类型系统**](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)（暂译，英文为：*[**unified type system**](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)*）。在 C# 中，所有的类型，如 `int`、`double` 都继承自一个根类型 `object`（又是个似曾相识的东西），这印证了 C# 对数据类型的设计思路上似乎与 Java 有着些许不同。所有类型共用一组通用运算。然后介绍用户自定义[引用类型（*reference types*）](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)／[值类型（*value types*）](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)、泛型方法、迭代器等。
 
-接下来讲的就是 C# 拥有的一些特性，差不多也都是 OOP 编程语言（或者说是 Java）固有的一些特性，如[**垃圾回收（*Garbage collection*）**](https://learn.microsoft.com/en-us/dotnet/standard/garbage-collection/)、**[空类型（*Nullable types*）](https://learn.microsoft.com/en-us/dotnet/csharp/nullable-references)**、[**异常处理（*Exception handling*）**](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/exceptions/)、[**lambda 表达式（*Lambda expressions*）**](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)等。*[**LINQ（Language Integrated Query）**](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)*倒是一个没听说过的概念，大概是与数据源打交道的一种语法。C# 中对[**异步操作（*asynchronous operations*）**](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/)提供的支持可以有效地构建分布式系统。C# 有一个[**统一类型系统**](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)（暂译，英文为：*[**unified type system**](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/types/)*）。在 C# 中，所有的类型，如 `int`、`double` 都继承自一个根类型 `object`（又是个似曾相识的东西），这印证了 C# 对数据类型的设计思路上似乎与 Java 有着些许不同。所有类型共用一组通用运算。然后介绍用户自定义[引用类型（*reference types*）](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/reference-types)/[值类型（*value types*）](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/value-types)、泛型方法、迭代器等。其中「值类型」又是一个有点陌生的概念呢。
-
-C# 强调**版控（*versioning*）**——好神奇，这如何强调Σ(⊙▽⊙"a）？随即引出了两个修饰符：`virtual` 与 `override`。只看概念很难理解，交给后续实战开发了再理解也不迟。
+C# 强调**版控（*versioning*）**——好神奇，这如何强调Σ(⊙▽⊙"a）？随即又引出了两个修饰符：`virtual` 与 `override`。只看概念很难理解，交给后续实战开发了再理解也不迟。
 
 ## [.NET architecture](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#net-architecture)
 
-C# 程序运行在 .NET 上，所谓 .NET 是一种名为**公共语言运行库（common language runtime，CLR）**的虚拟运行系统，并包含一系列类库。而 CLR 是 Microsoft 对公共语言基础结构（CLI）国际标准的实现。CLI 是创建执行和开发环境的基础，并且语言和库可以在其中无缝协同运转。
+C# 程序运行在 .NET 上。所谓 .NET 是一种被称为为**公共语言运行库（common language runtime，CLR）**的虚拟运行系统，包含一系列类库。CLR 则是 Microsoft 对公共语言基础结构（CLI，全称 common language infrastructure）国际标准的实现。CLI 是创建执行和开发环境的基础，语言和库可以在其中无缝协同运转。
 
-C# 源代码被会被编译成符合 CLI 规范的[中间语言（intermediate language，IL）](https://learn.microsoft.com/en-us/dotnet/standard/managed-code)。IL 代码和资源（如位图、字符串）会被存放在一个程序集里，通常扩展名为 *.dll*。程序集包含介绍自己本身的类型、版本和区域信息。
+C# 源代码会被编译成符合 CLI 规范的[中间语言（intermediate language，IL）](https://learn.microsoft.com/en-us/dotnet/standard/managed-code)。IL 代码和资源（如位图、字符串）会被存放在一个程序集里，通常扩展名为 *.dll*。程序集包含介绍自己本身的类型、版本和区域信息。
 
 执行 C# 程序的时候，程序集会被加载进 CLR。CLR 通过 JIT（Just-In-Time）来将 IL 代码转为本地机器指令。CLR 还可以提供自动垃圾回收、异常处理、以及资源管理等其他服务。由 CLR 执行的代码有时会被称为「托管代码」。而「非托管代码」会被编译成面向特定平台的本机语言。
 
 「语言互动性」（英文为 language interoperability。相对正规一些的译名为「语言互操作性」，我觉得不好听，就不喜欢这个译名。）是 .NET 的核心特性之一。C# 编译器生成的 IL 代码符合公共类型规范（Common Type Specification，简称 CTS）。C# 产生的 IL 代码可以与由 .NET 版本的 F#、Visual Basic、C++ 生成的代码进行交互。还有超过 20 种与 CTS 兼容的语言。 单个程序集可以包含多个用各种 .NET 语言编写的模块。 这些类型可以相互引用，就像它们是用同一种语言编写的一样。
 
-
+除去这些运行时服务，.NET 也包括扩展库。
 
 
 
