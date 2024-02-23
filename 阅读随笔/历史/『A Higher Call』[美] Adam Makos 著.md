@@ -4,7 +4,9 @@
 
 “A riveting[^riveting] story of humanity and mercy set against the ghastly[^ghastly] backdrop of war.” —*Publisher Weekly*
 
+“Deeply felt by its author and deeply affecting to read.” —*The Sunday Times* (UK)
 
+“A truly awe-inspiring story of wartime chivalry.” —*Daily Mail*
 
 
 
