@@ -8,6 +8,8 @@ C# 有一个[**统一类型系统**](https://learn.microsoft.com/en-us/dotnet/cs
 
 C# 强调**版控（*versioning*）**——好神奇，这如何强调Σ(⊙▽⊙"a）？随即又引出了两个修饰符：`virtual` 与 `override`。只看概念很难理解，交给后续实战开发了再理解也不迟。
 
+
+
 ## [.NET architecture](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#net-architecture)
 
 C# 程序运行在 .NET 上。所谓 .NET 是一种被称为为**公共语言运行库（common language runtime，CLR）**的虚拟运行系统，包含一系列类库。CLR 则是 Microsoft 对公共语言基础结构（CLI，全称 common language infrastructure）国际标准的实现。CLI 是创建执行和开发环境的基础，语言和库可以在其中无缝协同运转。
@@ -18,11 +20,15 @@ C# 源代码会被编译成符合 CLI 规范的[中间语言（intermediate lang
 
 「语言互动性」（英文为 language interoperability。相对正规一些的译名为「语言互操作性」，我觉得不好听，就不想采用这个译名。）是 .NET 的核心特性之一。C# 编译器生成的 IL 代码符合公共类型规范（Common Type Specification，简称 CTS）。C# 产生的 IL 代码可以与由 .NET 版本的 F#、Visual Basic、C++ 生成的代码进行交互。还有超过 20 种与 CTS 兼容的语言。 单个程序集可以包含多个用各种 .NET 语言编写的模块。 这些类型可以相互引用，就像它们是用同一种语言编写的一样。
 
-除去这些运行时服务，.NET 也包括大量的库。这些库支持多种工作。它们被组织进命名空间以完成各种功能——从文件的 I／O 到字符串操作，到 XML 解析，再到 web 应用框架、Windows Forms 控制。
+除去这些运行时服务，.NET 也包括大量的库。这些库支持多种工作。它们被组织进命名空间以完成各种功能——从文件的 I／O 到字符串操作，到 XML 解析，再到 web 应用框架、Windows Forms 控制。通常 C# 应用可以通过 .NET 类库来解决大量繁杂的工作。
+
+.NET 的更多详情请参阅 [Overview of .NET](https://learn.microsoft.com/en-us/dotnet/core/introduction)。
 
 
 
 ## [Hello world](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#hello-world)
+
+当介绍一门编程语言的时候，“Hello World” 程序通常是一个经典又司空见惯的选择。以下便是 C# 中的 “Hello World”。
 
 ```c#
 using System;
@@ -37,21 +43,23 @@ class Hello
 }
 ```
 
-`using` 指令表示引用了一个叫 `System` 的**命名空间（*namespace*）**。所谓「命名空间」提供了一种将 C# 程序和库整合起来的分层方法。命名空间包含了类型和其他命名空间——举个例子，`System` 命名空间包含了一些类型，比如程序中引用到的 `Console` 类，以及其他命名空间如 `IO`、`Collections`。
+`using` 指令表示引用了一个叫 `System` 的**命名空间（namespace）**。所谓「命名空间」提供了一种将 C# 程序和库整合起来的分层方法。命名空间包含了类型和其他命名空间——举个例子，`System` 命名空间包含了一些类型，比如程序中引用到的 `Console` 类，以及其他命名空间如 `IO`、`Collections`。
 
 程序第一行使用了 `using` 指令，意味着 `Console.WriteLine()` 就毋须写成 `System.Console.WriteLine()`。
 
 本程序中，`Hello` 类只有一个「成员」，也就是 `Main` 方法。与 Java 一样，`Main` 方法也是使用 `static` 来修饰。实例方法可以通过使用关键字 `this` 引用特定的封闭对象实例，而静态方法则可以在不引用特定对象的情况下运行。按照约定，`Main` 静态方法是 C# 程序的入口点。
 
+（有关注释的内容，不想写了）
+
 
 
 ## [Types and variables](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/#types-and-variables)
 
-**类型（*type*）**可以定义 C# 中的任何数据的结构和行为。类型的声明可以包含其成员、基类、它实现的接口、以及该类型允许的操作。
+**类型（*type*）**可以定义 C# 中的任何数据的结构和行为。类型的声明可以包含其成员、基类、它实现的接口、以及该类型允许的操作。一个变量也就意味着对一个特定类型的实例的引用。
 
-C# 中有两种类型：值类型（*value types*）与引用类型（*reference types*）。值类型的变量是实打实地携带自己的数据。而引用类型存储的是对数据（也就是通常所讲的「对象」）的引用。对于引用类型，两个变量可以引用同一个对象；对一个变量执行的运算可能会影响另一个变量引用的对象。
+C# 中有两种类型：值类型（*value types*）与引用类型（*reference types*）。值类型的变量是实打实地携带自己的数据。而引用类型存储的是对数据（也就是通常所讲的「对象」）的引用。对于「引用类型」，两个变量可以引用同一个对象；对一个变量执行的运算可能会影响另一个变量引用的对象。对于「值类型」，
 
-**标识符（*identifier*）**是变量名称
+**标识符（*identifier*）**是变量名称。标识符是一串
 
 - 值类型
 
