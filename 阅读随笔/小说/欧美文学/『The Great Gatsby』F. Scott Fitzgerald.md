@@ -17,13 +17,21 @@
 
 
 
+## * 疑难杂句
+
+
+
+
+
 ## * 原文赏析
 
 > In my younger and more vulnerable years my father gave me some advice that I've been turning over in my mind ever since.
 >
-> "Whenever you feel like criticising any one," he told me, "just remember that all the people in this world haven't had the advantages that you've had."
+> “Whenever you feel like criticising any one,” he told me, “just remember that all the people in this world haven't had the advantages that you've had.”
 
 开篇便是晴天霹雳。道理虽简单，却真的鲜有人能达到这个境界。
+
+
 
 
 
