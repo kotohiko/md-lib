@@ -4,8 +4,8 @@
 | 作者     | [美] David Gourley, Brian Totty, Marjorie Sayer, Sailu Reddy, Anshu Aggarwal |
 | 类型     | 计算机技术                                                   |
 | 发表时间 |                                                              |
-| 阅读时间 | 第一次：2022 年 8 月                                         |
-|          | 第二次：2023 年 10 月下旬                                    |
+| 阅读时间 |                                                              |
+|          |                                                              |
 
 
 
