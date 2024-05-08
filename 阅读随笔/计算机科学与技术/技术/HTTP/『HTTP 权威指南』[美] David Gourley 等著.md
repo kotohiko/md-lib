@@ -111,3 +111,15 @@ You can tell the cab driver to take you to 246 McAllister Street, and he'll know
 
 ## 3.1   报文流
 
+
+
+
+
+
+
+
+
+
+
+# 第 11 章   客户端识别与 cookie 机制
+
