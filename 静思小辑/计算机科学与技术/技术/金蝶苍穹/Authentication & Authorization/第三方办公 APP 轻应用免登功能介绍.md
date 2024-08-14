@@ -1,0 +1,1 @@
+为了方便金蝶云苍穹用户通过各种办公 APP 轻应用处理工作事项，[金蝶云苍穹](https://www.kingdee.com/products/cosmic_platform.html?utm_source=shequ )标准产品已支持云之家、企业微信、钉钉和飞书等办公 APP 的轻应用免登功能，客户也可自行通过插件实现其他第三方办公 APP 的轻应用免登功能。
