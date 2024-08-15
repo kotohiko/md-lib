@@ -80,7 +80,7 @@ https://developer.kingdee.com/article/311461951647625216?productLineId=29&isKnow
 请求示例：
 
 ```
-https://feature.kingdee.com:2024/baseline_a/kapi/sys/isc_demo_basedata_1/query?select=name,number&filter=name%20eq%20123asd&appId=TEST%C3%97tamp=2021-08-18%2014:19:08&signatureNonce=iksiertoidkwek;oitdwudysletwsuej&signature=32beeebfc277817a80b01d5787242c51ca5295f5edcf2eb9371ff367f8b487a5%C2%B6meters=select&user=17299999999&usertype=Mobile&accountId=1173910536060928000
+https://feature.kingdee.com:2024/baseline_a/kapi/sys/isc_demo_basedata_1/query?select=name,number&filter=name%20eq%20123asd&appId=TEST%C3%97tamp=2021-08-18%2014:19:08&signatureNonce=iksiertoidkwek;oitdwudysletwsuej&signature=32beeebfc277817a80b01d5787242c51ca5295f5edcf2eb9371ff367f8b487a5&parameters=select&user=17299999999&usertype=Mobile&accountId=1173910536060928000
 ```
 
 请求结果：
