@@ -49,23 +49,25 @@
 
 # PROLOGUE
 
-“We should start back,” Gared urged as the woods began to grow dark around them. “The wildlings[^1] are dead.” 
 
-“Do the dead frighten you?” Ser Waymar Royce asked with just the hint of a smile.
 
-Gared did not rise to the bait. He was an old man, past fifty, and he had seen the lordlings come and go. “Dead is dead,” he said. “We have no business with the dead.”
+“We should start back,” Gared urged as the woods began to grow dark around them. “The wildlings[^1-1] are dead.” 
+
+“Do the dead frighten you?” Ser[^1-2] Waymar Royce asked with just the hint[^1-3] of a smile.
+
+Gared did not rise to the bait[^1-4]. He was an old man, past fifty, and he had seen the lordlings[^1-5] come and go. “Dead is dead,” he said. “We have no business with the dead.”
 
 “Are they dead?” Royce asked softly. “What proof have we?”
 
 “Will saw them,” Gared said. “If he says they are dead, that’s proof enough for me.”
 
-Will had known they would drag him into the quarrel sooner or later. He wished it had been later rather than sooner. “My mother told me that dead men sing no songs,” he put in.
+Will had known they would drag him into the quarrel[^1-6] sooner or later. He wished it had been later rather than sooner. “My mother told me that dead men sing no songs,” he put in.
 
-“My wet nurse said the same thing, Will,” Royce replied. “Never believe anything you hear at a woman’s tit. There are things to be learned even from the dead.” His voice echoed, too loud in the twilit forest.
+“My wet nurse[^1-7] said the same thing, Will,” Royce replied. “Never believe anything you hear at a woman’s tit[^1-8]. There are things to be learned even from the dead.” His voice echoed, too loud in the twilit[^1-9] forest.
 
 “We have a long ride before us,” Gared pointed out. “Eight days, maybe nine. And night is falling.”
 
-Ser Waymar Royce glanced at the sky with disinterest. “It does that every day about this time. Are you unmanned by the dark, Gared?”
+Ser Waymar Royce glanced at the sky with disinterest. “It does that every day about this time. Are you unmanned[^1-10] by the dark, Gared?”
 
 Will could see the tightness around Gared’s mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night’s Watch, man and boy, and he was not accustomed to being made light of. Yet it was more than that. Under the wounded pride, Will could sense something else in the older man. You could taste it; a nervous tension that came perilous close to fear.
 
@@ -253,9 +255,33 @@ The right eye was open. The pupil burned blue. It saw.
 
 The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long, elegant hands brushed his cheek, then tightened around his throat. They were gloved in the finest moleskin and sticky with blood, yet the touch was icy cold.
 
-> [^1]: sssssss
+> [^1-1]: (“Wildling” and “wildlings” redirect to “free folk”) The **free folk** are a race of people who live [beyond the Wall](https://awoiaf.westeros.org/index.php/Beyond_the_Wall) in northern [Westeros](https://awoiaf.westeros.org/index.php/Westeros). They are more commonly referred to as "wildlings" everywhere south of the [Wall](https://awoiaf.westeros.org/index.php/Wall). Free folk are split into countless cultures, tribes, clans, villages, and raiding parties, some reasonably cultured, others savage and hostile.
+> [^1-2]: (“Ser” redirect to “knight”) A **knight** is a member of a warrior tradition that is heavily interwoven in the [feudal](https://awoiaf.westeros.org/index.php/Feudalism) culture of the [Seven Kingdoms](https://awoiaf.westeros.org/index.php/Seven_Kingdoms) and the [Faith of the Seven](https://awoiaf.westeros.org/index.php/Faith_of_the_Seven). Knights occupy a social standing between that of [lords](https://awoiaf.westeros.org/index.php/Lord) and [smallfolk](https://awoiaf.westeros.org/index.php/Smallfolk). In contrast to nobility, this rank is not hereditary. Knights are referred to with the title "**Ser**".
+> [^1-3]: [usually sing.] **hint (of sth)** a small amount of sth
+> [^1-4]: (“rise to the bait”) to accept an offer or suggestion that seems good but is really a trick
+> [^1-5]: “lordling” is a commonly used term for young men of highborn or wealthy appearance, regardless of the status of their House or what other titles they may be known to bear.
+>
+> [^1-6]:[countable] an angry argument or DISAGREEMENT between people, often about a personal matter
+> [^1-7]: (“wet nurse”) (usually in the past) a woman employed to feed another woman’s baby with her own breast milk
+> [^1-8]: [usually pl.] (*also* **titty**) (*taboo*, *slang*) a woman’s breast or NIPPLE
+> [^1-9]: *adjective* lighted by or as by twilight.
+> [^1-10]: if a machine, a vehicle, a place or an activity is **unmanned**, it does not have or need a person to control or operate it
+>
+> 
 
 # CHAPTER ONE: BRAN
+
+
+
+The morning had dawned clear and cold, with a crispness that hinted at the end of summer. They set forth at daybreak to see a man beheaded, twenty in all, and Bran rode among them, nervous with excitement. This was the first time he had been deemed old enough to go with his lord father and his brothers to see the king’s justice done. It was the ninth year of summer, and the seventh of Bran’s life.
+
+The man had been taken outside a small holdfast in the hills. Robb thought he was a wildling, his sword sworn to Mance Rayder, the King-beyond-the-Wall. It made Bran’s skin prickle to think of it. He remembered the hearth tales Old Nan told them. The wildlings were cruel men, she said, slavers and slayers and thieves. They consorted with giants and ghouls, stole girl children in the dead of night, and drank blood from polished horns. And their women lay with the Others in the Long Night to sire terrible half-human children.
+
+But the man they found bound hand and foot to the holdfast wall awaiting the king’s justice was old and scrawny, not much taller than Robb. He had lost both ears and a finger to frostbite, and he dressed all in black, the same as a brother of the Night’s Watch, except that his furs were ragged and greasy.
+
+The breath of man and horse mingled, steaming, in the cold morning air as his lord father had the man cut down from the wall and dragged before them. Robb and Jon sat tall and still on their horses, with Bran between them on his pony, trying to seem older than seven, trying to pretend that he’d seen all this before. A faint wind blew through the holdfast gate. Over their heads flapped the banner of the Starks of Winterfell: a grey direwolf racing across an ice-white field.
+
+> 
 
 # CHAPTER TWO: CATELYN
 
