@@ -1,11 +1,13 @@
 | 原书名   | *A Game of Thrones*                                          |
 | -------- | ------------------------------------------------------------ |
-| 其它译名 | 【中】[权力的游戏](https://zh.wikipedia.org/wiki/%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F_(%E5%B0%8F%E8%AF%B4))／【日】[七王国の玉座](https://ja.wikipedia.org/wiki/%E4%B8%83%E7%8E%8B%E5%9B%BD%E3%81%AE%E7%8E%89%E5%BA%A7)／【韩】[왕좌의 게임](https://ko.wikipedia.org/wiki/%EC%99%95%EC%A2%8C%EC%9D%98_%EA%B2%8C%EC%9E%84)／【法】*[A Game of Thrones](https://fr.wikipedia.org/wiki/A_Game_of_Thrones)*／【德】[A Game of Thrones](https://de.wikipedia.org/wiki/A_Game_of_Thrones)／【西】[*Juego de tronos*](https://es.wikipedia.org/wiki/Juego_de_tronos)／／ |
+| 其它译名 | 【中】[权力的游戏](https://zh.wikipedia.org/wiki/%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F_(%E5%B0%8F%E8%AF%B4))／【日本語】[七王国の玉座](https://ja.wikipedia.org/wiki/%E4%B8%83%E7%8E%8B%E5%9B%BD%E3%81%AE%E7%8E%89%E5%BA%A7)／【한국어】[왕좌의 게임](https://ko.wikipedia.org/wiki/%EC%99%95%EC%A2%8C%EC%9D%98_%EA%B2%8C%EC%9E%84)／【Français】*[A Game of Thrones](https://fr.wikipedia.org/wiki/A_Game_of_Thrones)*／【Deutsch】[*A Game of Thrones*](https://de.wikipedia.org/wiki/A_Game_of_Thrones)／【Español】[*Juego de tronos*](https://es.wikipedia.org/wiki/Juego_de_tronos)／【Русский】[Игра престолов](https://ru.wikipedia.org/wiki/%D0%98%D0%B3%D1%80%D0%B0_%D0%BF%D1%80%D0%B5%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B2_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD))／【Italiano】[*Il gioco del trono*](https://it.wikipedia.org/wiki/Il_gioco_del_trono) |
 | 作者     | 【美】[George R. R. Martin](https://georgerrmartin.com/)     |
 | 类型     | 长篇小说／史诗／奇幻／中世纪／政治悬疑                       |
 | 发表时间 |                                                              |
 | 阅读时间 | 第一次：2024 年 11 月 ~                                      |
 |          |                                                              |
+
+
 
 
 
@@ -41,6 +43,8 @@
 
 
 
+
+
 <img src="./assets/A-Dance-with-Dragons_A-Song-of-Ice-and-Fire_the_north.jpg" alt="A-Dance-with-Dragons_A-Song-of-Ice-and-Fire_the_north" style="zoom:80%;" />
 
 <img src="./assets/A-Dance-with-Dragons_A-Song-of-Ice-and-Fire_the_south.jpg" alt="A-Dance-with-Dragons_A-Song-of-Ice-and-Fire_the_south" style="zoom:80%;" />
@@ -51,25 +55,25 @@
 
 
 
-“We should start back,” Gared urged as the woods began to grow dark around them. “The wildlings[^1-1] are dead.” 
+“We should start back,” Gared urged as the woods began to grow dark around them. “The **wildlings**[^1-1] are dead.” 
 
-“Do the dead frighten you?” Ser[^1-2] Waymar Royce asked with just the hint[^1-3] of a smile.
+“Do the dead frighten you?” **Ser**[^1-2] Waymar Royce asked with just the **hint**[^1-3] of a smile.
 
-Gared did not rise to the bait[^1-4]. He was an old man, past fifty, and he had seen the lordlings[^1-5] come and go. “Dead is dead,” he said. “We have no business with the dead.”
+Gared did not rise to the **bait**[^1-4]. He was an old man, past fifty, and he had seen the **lordlings**[^1-5] come and go. “Dead is dead,” he said. “We have no business with the dead.”
 
 “Are they dead?” Royce asked softly. “What proof have we?”
 
 “Will saw them,” Gared said. “If he says they are dead, that’s proof enough for me.”
 
-Will had known they would drag him into the quarrel[^1-6] sooner or later. He wished it had been later rather than sooner. “My mother told me that dead men sing no songs,” he put in.
+Will had known they would drag him into the **quarrel**[^1-6] sooner or later. He wished it had been later rather than sooner. “My mother told me that dead men sing no songs,” he put in.
 
-“My wet nurse[^1-7] said the same thing, Will,” Royce replied. “Never believe anything you hear at a woman’s tit[^1-8]. There are things to be learned even from the dead.” His voice echoed, too loud in the twilit[^1-9] forest.
+“My **wet nurse**[^1-7] said the same thing, Will,” Royce replied. “Never believe anything you hear at a woman’s **tit**[^1-8]. There are things to be learned even from the dead.” His voice echoed, too loud in the **twilit**[^1-9] forest.
 
 “We have a long ride before us,” Gared pointed out. “Eight days, maybe nine. And night is falling.”
 
-Ser Waymar Royce glanced at the sky with disinterest. “It does that every day about this time. Are you unmanned[^1-10] by the dark, Gared?”
+Ser Waymar Royce glanced at the sky with disinterest. “It does that every day about this time. Are you **unmanned**[^1-10] by the dark, Gared?”
 
-Will could see the tightness around Gared’s mouth, the barely suppressed anger in his eyes under the thick black hood of his cloak. Gared had spent forty years in the Night’s Watch, man and boy, and he was not accustomed to being made light of. Yet it was more than that. Under the wounded pride, Will could sense something else in the older man. You could taste it; a nervous tension that came perilous close to fear.
+Will could see the tightness around Gared’s mouth, the barely suppressed anger in his eyes under the **thick**[^1-11] black **hood**[^1-12] of his cloak. Gared had spent forty years in the **Night’s Watch**[^1-13], **man and boy**[^1-14], and he was not **accustomed**[^1-15] to being **made light of**[^1-16]. Yet it was more than that. Under the wounded **pride**[^1-17], Will could sense something else in the older man. You could taste it; a nervous **tension**[^1-18] that came **perilous**[^1-19] close to fear.
 
 Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back, and his bowels had turned to water. He had laughed about it afterward. He was a veteran of a hundred rangings by now, and the endless dark wilderness that the southron called the haunted forest had no more terrors for him.
 
@@ -258,16 +262,32 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^1-1]: (“Wildling” and “wildlings” redirect to “free folk”) The **free folk** are a race of people who live [beyond the Wall](https://awoiaf.westeros.org/index.php/Beyond_the_Wall) in northern [Westeros](https://awoiaf.westeros.org/index.php/Westeros). They are more commonly referred to as "wildlings" everywhere south of the [Wall](https://awoiaf.westeros.org/index.php/Wall). Free folk are split into countless cultures, tribes, clans, villages, and raiding parties, some reasonably cultured, others savage and hostile.
 > [^1-2]: (“Ser” redirect to “knight”) A **knight** is a member of a warrior tradition that is heavily interwoven in the [feudal](https://awoiaf.westeros.org/index.php/Feudalism) culture of the [Seven Kingdoms](https://awoiaf.westeros.org/index.php/Seven_Kingdoms) and the [Faith of the Seven](https://awoiaf.westeros.org/index.php/Faith_of_the_Seven). Knights occupy a social standing between that of [lords](https://awoiaf.westeros.org/index.php/Lord) and [smallfolk](https://awoiaf.westeros.org/index.php/Smallfolk). In contrast to nobility, this rank is not hereditary. Knights are referred to with the title "**Ser**".
 > [^1-3]: [usually sing.] **hint (of sth)** a small amount of sth
-> [^1-4]: (“rise to the bait”) to accept an offer or suggestion that seems good but is really a trick
+> [^1-4]: to accept an offer or suggestion that seems good but is really a trick
 > [^1-5]: “lordling” is a commonly used term for young men of highborn or wealthy appearance, regardless of the status of their House or what other titles they may be known to bear.
 >
 > [^1-6]:[countable] an angry argument or DISAGREEMENT between people, often about a personal matter
-> [^1-7]: (“wet nurse”) (usually in the past) a woman employed to feed another woman’s baby with her own breast milk
+> [^1-7]: (usually in the past) a woman employed to feed another woman’s baby with her own breast milk
 > [^1-8]: [usually pl.] (*also* **titty**) (*taboo*, *slang*) a woman’s breast or NIPPLE
 > [^1-9]: *adjective* lighted by or as by twilight.
 > [^1-10]: if a machine, a vehicle, a place or an activity is **unmanned**, it does not have or need a person to control or operate it
 >
+> [^1-11]: having a larger distance between opposite sides or surfaces than other similar objects or than normal
+> [^1-12]: a part of a coat, etc. that you can pull up to cover the back and top of your head
+> [^1-13]: 
+> [^1-14]: 
+> [^1-15]: (*rather than formal*) familiar with sth and accepting it as normal or usual
+> [^1-16]: to behave as if a situation, especially a problem, is not seirous or important
+> [^1-17]: [uncountable] the feeling of respect that you have for yourself
+> [^1-18]: [uncountable, countable, usually pl.] a situation in which people do not trust each other, or feel unfriendly towards each other, and that may cause them to attack each other
+> [^1-19]: (*formal or literary*) very dangerous
+>
 > 
+>
+> 
+>
+> 
+
+
 
 # CHAPTER ONE: BRAN
 
