@@ -73,15 +73,15 @@ Will had known they would drag him into the **quarrel**[^1-6] sooner or later. H
 
 Ser Waymar Royce glanced at the sky with disinterest. “It does that every day about this time. Are you **unmanned**[^1-10] by the dark, Gared?”
 
-Will could see the tightness around Gared’s mouth, the barely suppressed anger in his eyes under the **thick**[^1-11] black **hood**[^1-12] of his cloak. Gared had spent forty years in the **Night’s Watch**[^1-13], **man and boy**[^1-14], and he was not **accustomed**[^1-15] to being **made light of**[^1-16]. Yet it was more than that. Under the wounded **pride**[^1-17], Will could sense something else in the older man. You could taste it; a nervous **tension**[^1-18] that came **perilous**[^1-19] close to fear.
+Will could see the tightness around Gared’s mouth, the barely suppressed anger in his eyes under the **thick**[^0-11] black **hood**[^0-12] of his cloak. Gared had spent forty years in the **Night’s Watch**[^0-13], **man and boy**[^0-14], and he was not **accustomed**[^0-15] to being **made light of**[^0-16]. Yet it was more than that. Under the wounded **pride**[^0-17], Will could sense something else in the older man. You could taste it; a nervous **tension**[^0-18] that came **perilous**[^0-19] close to fear.
 
-Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back, and his bowels had turned to water. He had laughed about it afterward. He was a veteran of a hundred rangings by now, and the endless dark wilderness that the southron called the haunted forest had no more terrors for him.
+Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back, and his **bowels had turned to water**[^0-20]. He had laughed about it afterward. He was a veteran of a hundred **rangings**[^0-21] by now, and the endless dark wilderness that the **southron**[^0-22] called the **haunted**[^0-23] forest had no more terrors for him.
 
-Until tonight. Something was different tonight. There was an edge to this darkness that made his hackles rise. Nine days they had been riding, north and “W northwest and then north again, farther and farther from the Wall, hard on the track of a band of wildling raiders. Each day had been worse than the day that had come before it. Today was the worst of all. A cold wind was blowing out of the north, and it made the trees rustle like living things. All day, Will had felt as though something were watching him, something cold and implacable that loved him not. Gared had felt it too. Will wanted nothing so much as to ride hellbent for the safety of the Wall, but that was not a feeling to share with your commander.
+Until tonight. Something was different tonight. There was an edge to this darkness that made his **hackles**[^0-24] rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the Wall, hard on the track of a band of wildling **raiders**[^0-25]. Each day had been worse than the day that had come before it. Today was the worst of all. A cold wind was **blowing**[^0-26] out of the north, and it made the trees **rustle**[^0-27] like living things. All day, Will had felt as though something were watching him, something cold and **implacable**[^0-28] that loved him not. Gared had felt it too. Will wanted nothing so much as to ride **hellbent**[^0-29] for the safety of the Wall, but that was not a feeling to share with your commander.
 
-Especially not a commander like this one.
+==Especially not a commander like this one.==
 
-Ser Waymar Royce was the youngest son of an ancient house with too many heirs. He was a handsome youth of eighteen, grey-eyed and graceful and slender as a knife. Mounted on his huge black destrier, the knight towered above Will and Gared on their smaller garrons. He wore black leather boots, black woolen pants, black moleskin gloves, and a fine supple coat of gleaming black ringmail over layers of black wool and boiled leather. Ser Waymar had been a Sworn Brother of the Night’s Watch for less than half a year, but no one could say he had not prepared for his vocation. At least insofar as his wardrobe was concerned.
+Ser Waymar Royce was the youngest son of an ancient **house**[^0-30] with too many **heirs**[^0-31]. He was a handsome youth of eighteen, grey-eyed and graceful and slender as a knife. **Mounted**[^0-32] on his huge black **destrier**[^0-33], the knight **towered**[^0-34] above Will and Gared on their smaller **garrons**[^0-35]. He wore black leather boots, black **woolen**[^0-36] pants, black **moleskin**[^0-37] gloves, and a fine **supple**[^0-38] coat of **gleaming**[^0-39] black **ringmail**[^0-40] over layers of black wool and boiled leather. Ser Waymar had been a Sworn Brother of the Night’s Watch for less than half a year, but no one could say he had not prepared for his vocation. At least insofar as his wardrobe was concerned.
 
 His cloak was his crowning glory; sable, thick and black and soft as sin. “Bet he killed them all himself, he did,” Gared told the barracks over wine, “twisted their little heads off, our mighty warrior.” They had all shared the laugh.
 
@@ -259,33 +259,31 @@ The right eye was open. The pupil burned blue. It saw.
 
 The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long, elegant hands brushed his cheek, then tightened around his throat. They were gloved in the finest moleskin and sticky with blood, yet the touch was icy cold.
 
-> [^1-1]: (“Wildling” and “wildlings” redirect to “free folk”) The **free folk** are a race of people who live [beyond the Wall](https://awoiaf.westeros.org/index.php/Beyond_the_Wall) in northern [Westeros](https://awoiaf.westeros.org/index.php/Westeros). They are more commonly referred to as "wildlings" everywhere south of the [Wall](https://awoiaf.westeros.org/index.php/Wall). Free folk are split into countless cultures, tribes, clans, villages, and raiding parties, some reasonably cultured, others savage and hostile.
-> [^1-2]: (“Ser” redirect to “knight”) A **knight** is a member of a warrior tradition that is heavily interwoven in the [feudal](https://awoiaf.westeros.org/index.php/Feudalism) culture of the [Seven Kingdoms](https://awoiaf.westeros.org/index.php/Seven_Kingdoms) and the [Faith of the Seven](https://awoiaf.westeros.org/index.php/Faith_of_the_Seven). Knights occupy a social standing between that of [lords](https://awoiaf.westeros.org/index.php/Lord) and [smallfolk](https://awoiaf.westeros.org/index.php/Smallfolk). In contrast to nobility, this rank is not hereditary. Knights are referred to with the title "**Ser**".
-> [^1-3]: [usually sing.] **hint (of sth)** a small amount of sth
-> [^1-4]: to accept an offer or suggestion that seems good but is really a trick
-> [^1-5]: “lordling” is a commonly used term for young men of highborn or wealthy appearance, regardless of the status of their House or what other titles they may be known to bear.
+
+
+> [^0-1]: (“Wildling” and “wildlings” redirect to “free folk”) The **free folk** are a race of people who live [beyond the Wall](https://awoiaf.westeros.org/index.php/Beyond_the_Wall) in northern [Westeros](https://awoiaf.westeros.org/index.php/Westeros). They are more commonly referred to as "wildlings" everywhere south of the [Wall](https://awoiaf.westeros.org/index.php/Wall). Free folk are split into countless cultures, tribes, clans, villages, and raiding parties, some reasonably cultured, others savage and hostile.
+> [^0-2]: (“Ser” redirect to “knight”) A **knight** is a member of a warrior tradition that is heavily interwoven in the [feudal](https://awoiaf.westeros.org/index.php/Feudalism) culture of the [Seven Kingdoms](https://awoiaf.westeros.org/index.php/Seven_Kingdoms) and the [Faith of the Seven](https://awoiaf.westeros.org/index.php/Faith_of_the_Seven). Knights occupy a social standing between that of [lords](https://awoiaf.westeros.org/index.php/Lord) and [smallfolk](https://awoiaf.westeros.org/index.php/Smallfolk). In contrast to nobility, this rank is not hereditary. Knights are referred to with the title "**Ser**".
+> [^0-3]: [usually sing.] **hint (of sth)** a small amount of sth
+> [^0-4]: to accept an offer or suggestion that seems good but is really a trick
+> [^0-5]: “lordling” is a commonly used term for young men of highborn or wealthy appearance, regardless of the status of their House or what other titles they may be known to bear.
 >
-> [^1-6]:[countable] an angry argument or DISAGREEMENT between people, often about a personal matter
-> [^1-7]: (usually in the past) a woman employed to feed another woman’s baby with her own breast milk
-> [^1-8]: [usually pl.] (*also* **titty**) (*taboo*, *slang*) a woman’s breast or NIPPLE
-> [^1-9]: *adjective* lighted by or as by twilight.
-> [^1-10]: if a machine, a vehicle, a place or an activity is **unmanned**, it does not have or need a person to control or operate it
+> [^0-6]: [countable] an angry argument or DISAGREEMENT between people, often about a personal matter
+> [^0-7]: (usually in the past) a woman employed to feed another woman’s baby with her own breast milk
+> [^0-8]: [usually pl.] (*also* **titty**) (*taboo*, *slang*) a woman’s breast or NIPPLE
+> [^0-9]: *adjective* lighted by or as by twilight.
+> [^0-10]: if a machine, a vehicle, a place or an activity is **unmanned**, it does not have or need a person to control or operate it
 >
-> [^1-11]: having a larger distance between opposite sides or surfaces than other similar objects or than normal
-> [^1-12]: a part of a coat, etc. that you can pull up to cover the back and top of your head
-> [^1-13]: 
-> [^1-14]: 
-> [^1-15]: (*rather than formal*) familiar with sth and accepting it as normal or usual
-> [^1-16]: to behave as if a situation, especially a problem, is not seirous or important
-> [^1-17]: [uncountable] the feeling of respect that you have for yourself
-> [^1-18]: [uncountable, countable, usually pl.] a situation in which people do not trust each other, or feel unfriendly towards each other, and that may cause them to attack each other
-> [^1-19]: (*formal or literary*) very dangerous
+> [^0-11]: having a larger distance between opposite sides or surfaces than other similar objects or than normal
+> [^0-12]: a part of a coat, etc. that you can pull up to cover the back and top of your head
+> [^0-13]: 
+> [^0-14]: 
+> [^0-15]: (*rather than formal*) familiar with sth and accepting it as normal or usual
+> [^0-16]: to behave as if a situation, especially a problem, is not seirous or important
+> [^0-17]: [uncountable] the feeling of respect that you have for yourself
+> [^0-18]: [uncountable, countable, usually pl.] a situation in which people do not trust each other, or feel unfriendly towards each other, and that may cause them to attack each other
+> [^0-19]: (*formal or literary*) very dangerous
 >
-> 
->
-> 
->
-> 
+> [^0-20]: 
 
 
 
