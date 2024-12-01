@@ -55,45 +55,45 @@
 
 
 
-“We should start back,” Gared urged as the woods began to grow dark around them. “The **wildlings**[^1-1] are dead.” 
+“We should start back,” Gared urged as the woods began to grow dark around them. “The **wildlings**[^0-1] are dead.” 
 
-“Do the dead frighten you?” **Ser**[^1-2] Waymar Royce asked with just the **hint**[^1-3] of a smile.
+“Do the dead frighten you?” **Ser**[^0-2] Waymar Royce asked with just the **hint**[^0-3] of a smile.
 
-Gared did not rise to the **bait**[^1-4]. He was an old man, past fifty, and he had seen the **lordlings**[^1-5] come and go. “Dead is dead,” he said. “We have no business with the dead.”
+Gared did not rise to the **bait**[^0-4]. He was an old man, past fifty, and he had seen the **lordlings**[^0-5] come and go. “Dead is dead,” he said. “We have no business with the dead.”
 
 “Are they dead?” Royce asked softly. “What proof have we?”
 
 “Will saw them,” Gared said. “If he says they are dead, that’s proof enough for me.”
 
-Will had known they would drag him into the **quarrel**[^1-6] sooner or later. He wished it had been later rather than sooner. “My mother told me that dead men sing no songs,” he put in.
+Will had known they would drag him into the **quarrel**[^0-6] sooner or later. He wished it had been later rather than sooner. “My mother told me that dead men sing no songs,” he put in.
 
-“My **wet nurse**[^1-7] said the same thing, Will,” Royce replied. “Never believe anything you hear at a woman’s **tit**[^1-8]. There are things to be learned even from the dead.” His voice echoed, too loud in the **twilit**[^1-9] forest.
+“My **wet nurse**[^0-7] said the same thing, Will,” Royce replied. “Never believe anything you hear at a woman’s **tit**[^0-8]. There are things to be learned even from the dead.” His voice echoed, too loud in the **twilit**[^0-9] forest.
 
 “We have a long ride before us,” Gared pointed out. “Eight days, maybe nine. And night is falling.”
 
-Ser Waymar Royce glanced at the sky with disinterest. “It does that every day about this time. Are you **unmanned**[^1-10] by the dark, Gared?”
+Ser Waymar Royce glanced at the sky with disinterest. “It does that every day about this time. Are you **unmanned**[^0-10] by the dark, Gared?”
 
 Will could see the tightness around Gared’s mouth, the barely suppressed anger in his eyes under the **thick**[^0-11] black **hood**[^0-12] of his cloak. Gared had spent forty years in the **Night’s Watch**[^0-13], **man and boy**[^0-14], and he was not **accustomed**[^0-15] to being **made light of**[^0-16]. Yet it was more than that. Under the wounded **pride**[^0-17], Will could sense something else in the older man. You could taste it; a nervous **tension**[^0-18] that came **perilous**[^0-19] close to fear.
 
-Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back, and his **bowels had turned to water**[^0-20]. He had laughed about it afterward. He was a veteran of a hundred **rangings**[^0-21] by now, and the endless dark wilderness that the **southron**[^0-22] called the **haunted**[^0-23] forest had no more terrors for him.
+Will shared his unease. He had been four years on the Wall. The first time he had been sent beyond, all the old stories had come rushing back, and his **bowels had turned to water**[^0-20]. He had laughed about it afterward. He was a veteran of a hundred **rangings**[^0-21] by now, and the endless dark wilderness that the **southron**[^0-22] called the **haunted forest**[^0-23] had no more terrors for him.
 
-Until tonight. Something was different tonight. There was an edge to this darkness that made his **hackles**[^0-24] rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the Wall, hard on the track of a band of wildling **raiders**[^0-25]. Each day had been worse than the day that had come before it. Today was the worst of all. A cold wind was **blowing**[^0-26] out of the north, and it made the trees **rustle**[^0-27] like living things. All day, Will had felt as though something were watching him, something cold and **implacable**[^0-28] that loved him not. Gared had felt it too. Will wanted nothing so much as to ride **hellbent**[^0-29] for the safety of the Wall, but that was not a feeling to share with your commander.
+Until tonight. Something was different tonight. There was an edge to this darkness that made his **hackles**[^0-24] rise. Nine days they had been riding, north and northwest and then north again, farther and farther from the Wall, hard on the track of a band of wildling **raiders**[^0-25]. Each day had been worse than the day that had come before it. Today was the worst of all. A cold wind was blowing out of the north, and it made the trees **rustle**[^0-26] like living things. All day, Will had felt as though something were watching him, something cold and **implacable**[^0-27] that loved him not. Gared had felt it too. Will wanted nothing so much as to ride **hellbent**[^0-28] for the safety of the Wall, but that was not a feeling to share with your commander.
 
 ==Especially not a commander like this one.==
 
-Ser Waymar Royce was the youngest son of an ancient **house**[^0-30] with too many **heirs**[^0-31]. He was a handsome youth of eighteen, grey-eyed and graceful and slender as a knife. **Mounted**[^0-32] on his huge black **destrier**[^0-33], the knight **towered**[^0-34] above Will and Gared on their smaller **garrons**[^0-35]. He wore black leather boots, black **woolen**[^0-36] pants, black **moleskin**[^0-37] gloves, and a fine **supple**[^0-38] coat of **gleaming**[^0-39] black **ringmail**[^0-40] over layers of black wool and boiled leather. Ser Waymar had been a Sworn Brother of the Night’s Watch for less than half a year, but no one could say he had not prepared for his vocation. At least insofar as his wardrobe was concerned.
+Ser Waymar Royce was the youngest son of an ancient house with too many **heirs**[^0-29]. He was a handsome youth of eighteen, grey-eyed and graceful and slender as a knife. Mounted on his huge black **destrier**[^0-30], the knight **towered**[^0-31] above Will and Gared on their smaller **garrons**[^0-32]. He wore black leather boots, black woolen pants, black **moleskin**[^0-33] gloves, and a fine **supple**[^0-34] coat of **gleaming**[^0-35] black **ringmail**[^0-36] over layers of black wool and **boiled leather**[^0-37]. Ser Waymar had been a **Sworn Brother**[^0-38] of the Night’s Watch for less than half a year, but no one could say he had not prepared for his **vocation**[^0-39]. At least insofar as his **wardrobe**[^0-40] was concerned.
 
-His cloak was his crowning glory; sable, thick and black and soft as sin. “Bet he killed them all himself, he did,” Gared told the barracks over wine, “twisted their little heads off, our mighty warrior.” They had all shared the laugh.
+His cloak was his **crowning**[^0-41] glory; **sable**[^0-42], thick and black and **soft as sin**[^0-43]. “Bet he killed them all himself, he did,” Gared told the barracks over wine, “twisted their little heads off, our **mighty**[^0-44] warrior.” They had all shared the laugh.
 
-It is hard to take orders from a man you laughed at in your cups, Will reflected as he sat shivering atop his garron. Gared must have felt the same.
+It is hard to take orders from a man you laughed at in your cups, Will **reflected**[^0-45] as he sat **shivering**[^0-46] **atop**[^0-47] his garron. Gared must have felt the same.
 
-“Mormont said as we should track them, and we did,” Gared said. “They’re dead. They shan’t trouble us no more. There’s hard riding before us. I don’t like this weather. If it snows, we could be a fortnight getting back, and snow’s the best we can hope for. Ever seen an ice storm, my lord?”
+“**Mormont**[^0-48] said as we should track them, and we did,” Gared said. “They’re dead. They shan’t trouble us no more. There’s hard riding before us. I don’t like this weather. If it snows, we could be a **fortnight**[^0-49] getting back, and snow’s the best we can hope for. Ever seen an ice storm, my lord?”
 
-The lordling seemed not to hear him. He studied the deepening twilight in that half-bored, half-distracted way he had. Will had ridden with the knight long enough to understand that it was best not to interrupt him when he looked like that. “Tell me again what you saw, Will. All the details. Leave nothing out.”
+The lordling seemed not to hear him. He **studied**[^0-50] the deepening twilight in that half-bored, half-distracted way he had. Will had ridden with the knight long enough to understand that it was best not to interrupt him when he looked like that. “Tell me again what you saw, Will. All the details. Leave nothing out.”
 
-Will had been a hunter before he joined the Night’s Watch. Well, a poacher in truth. Mallister freeriders had caught him red-handed in the Mallisters’ own woods, skinning one of the Mallisters’ own bucks, and it had been a choice of putting on the black or losing a hand. No one could move through the woods as silent as Will, and it had not taken the black brothers long to discover his talent.
+Will had been a hunter before he joined the Night’s Watch. Well, a **poacher**[^0-51] in truth. **Mallister**[^0-52] **freeriders**[^0-53] had caught him **red-handed**[^0-54] in the Mallisters’ own woods, skinning one of the Mallisters’ own **bucks**[^0-55], and it had been a choice of putting on the black or losing a hand. No one could move through the woods as silent as Will, and it had not taken the black brothers long to discover his talent.
 
-“The camp is two miles farther on, over that ridge, hard beside a stream,” Will said. “I got close as I dared. There’s eight of them, men and women both. No children I could see. They put up a lean-to against the rock. The snow’s pretty well covered it now, but I could still make it out. No fire burning, but the firepit was still plain as day. No one moving. I watched a long time. No living man ever lay so still.”
+“The camp is two miles farther on, over that **ridge**[^0-56], hard beside a stream,” Will said. “I got close as I dared. There’s eight of them, men and women both. No children I could see. They put up a **lean-to**[^0-57] against the rock. The snow’s pretty well covered it now, but I could still make it out. No fire burning, but the firepit was still **plain as day**[^0-58]. No one moving. I watched a long time. No living man ever lay so still.”
 
 “Did you see any blood?”
 
@@ -101,23 +101,23 @@ Will had been a hunter before he joined the Night’s Watch. Well, a poacher in 
 
 “Did you see any weapons?”
 
-“Some swords, a few bows. One man had an axe. Heavy-looking, doublebladed, a cruel piece of iron. It was on the ground beside him, right by his hand.”
+“Some swords, a few bows. One man had an axe. Heavy-looking, doublebladed, **a cruel piece of iron**[^0-59]. It was on the ground beside him, right by his hand.”
 
 “Did you make note of the position of the bodies?”
 
-Will shrugged. “A couple are sitting up against the rock. Most of them on the ground. Fallen, like.”
+Will **shrugged**[^0-60]. “A couple are sitting up against the rock. Most of them on the ground. Fallen, like.”
 
 “Or sleeping,” Royce suggested.
 
 “Fallen,” Will insisted. “There’s one woman up an ironwood, half-hid in the branches. A far-eyes.” He smiled thinly. “I took care she never saw me. When I got closer, I saw that she wasn’t moving neither.” Despite himself, he shivered.
 
-“You have a chill?” Royce asked.
+“You have a **chill**[^0-61]?” Royce asked.
 
-“Some,” Will muttered. “The wind, m’lord.”
+“Some,” Will **muttered**[^0-62]. “The wind, m’lord.”
 
-The young knight turned back to his grizzled man-at-arms. Frostfallen leaves whispered past them, and Royce’s destrier moved restlessly. “What do you think might have killed these men, Gared?” Ser Waymar asked casually. He adjusted the drape of his long sable cloak.
+The young knight turned back to his **grizzled**[^0-63] man-at-arms. Frostfallen leaves whispered past them, and Royce’s destrier moved restlessly. “What do you think might have killed these men, Gared?” Ser Waymar asked **casually**[^0-64]. He adjusted the **drape**[^0-65] of his long sable cloak.
 
-“It was the cold,” Gared said with iron certainty. “I saw men freeze last winter, and the one before, when I was half a boy. Everyone talks about snows forty foot deep, and how the ice wind comes howling out of the north, but the real enemy is the cold. It steals up on you quieter than Will, and at first you shiver and your teeth chatter and you stamp your feet and dream of mulled wine and nice hot fires. It burns, it does. Nothing burns like the cold. But only for a while. Then it gets inside you and starts to fill you up, and after a while you don’t have the strength to fight it. It’s easier just to sit down or go to sleep. They say you don’t feel any pain toward the end. First you go weak and drowsy, and everything starts to fade, and then it’s like sinking into a sea of warm milk. Peaceful, like.”
+“It was the cold,” Gared said with iron certainty. “I saw men freeze last winter, and the one before, when I was **half a boy**[^0-66]. Everyone talks about snows forty foot deep, and how the ice wind comes **howling**[^0-67] out of the north, but the real enemy is the cold. It **steals up**[^0-68] on you quieter than Will, and at first you shiver and your teeth **chatter**[^0-69] and you stamp your feet and dream of mulled wine and nice hot fires. It burns, it does. Nothing burns like the cold. But only for a while. Then it gets inside you and starts to fill you up, and after a while you don’t have the strength to fight it. It’s easier just to sit down or go to sleep. They say you don’t feel any pain toward the end. First you go weak and drowsy, and everything starts to fade, and then it’s like sinking into a sea of warm milk. Peaceful, like.”
 
 “Such eloquence, Gared,” Ser Waymar observed. “I never suspected you had it in you.” “I’ve had the cold in me too, lordling.” Gared pulled back his hood, giving Ser Waymar a good long look at the stumps where his ears had been. “Two ears, three toes, and the little finger off my left hand. I got off light. We found my brother frozen at his watch, with a smile on his face.”
 
@@ -275,15 +275,81 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 >
 > [^0-11]: having a larger distance between opposite sides or surfaces than other similar objects or than normal
 > [^0-12]: a part of a coat, etc. that you can pull up to cover the back and top of your head
-> [^0-13]: 
-> [^0-14]: 
+> [^0-13]: The **Night's Watch** is a military order dedicated to holding the [Wall](https://awoiaf.westeros.org/index.php/Wall), the immense fortification on the northern border of the [Seven Kingdoms](https://awoiaf.westeros.org/index.php/Seven_Kingdoms), defending the realms of men from what lies [beyond the Wall](https://awoiaf.westeros.org/index.php/Beyond_the_Wall). The order's foundation dates back to the [Age of Heroes](https://awoiaf.westeros.org/index.php/Age_of_Heroes), at the time when the [Others](https://awoiaf.westeros.org/index.php/Others) were pushed back. The men of Night's Watch wear only black, and they are known as **black brothers**. Recruits who join the Watch are said to **take the black**.
+> [^0-14]: throughout life from youth.
 > [^0-15]: (*rather than formal*) familiar with sth and accepting it as normal or usual
 > [^0-16]: to behave as if a situation, especially a problem, is not seirous or important
 > [^0-17]: [uncountable] the feeling of respect that you have for yourself
 > [^0-18]: [uncountable, countable, usually pl.] a situation in which people do not trust each other, or feel unfriendly towards each other, and that may cause them to attack each other
 > [^0-19]: (*formal or literary*) very dangerous
 >
-> [^0-20]: 
+> [^0-20]: https://english.stackexchange.com/questions/338701/what-does-his-bowels-had-turned-to-water-and-he-was-a-veteran-of-a-hundred-r
+> [^0-21]:https://english.stackexchange.com/questions/163190/what-ranging-means-in-he-was-a-veteran-of-a-hundred-rangings
+> [^0-22]:**Southron** is a [northern](https://awoiaf.westeros.org/index.php/North) [Westerosi](https://awoiaf.westeros.org/index.php/Westeros) name for the southern Westerosi established below the [Neck](https://awoiaf.westeros.org/index.php/Neck). It can also be a patronizing or outright derogatory name at times.
+> [^0-23]:The **haunted forest** is a vast forest [beyond the Wall](https://awoiaf.westeros.org/index.php/Beyond_the_Wall) in northern [Westeros](https://awoiaf.westeros.org/index.php/Westeros). Located beyond the [Seven Kingdoms](https://awoiaf.westeros.org/index.php/Seven_Kingdoms), it is inhabited by the [free folk](https://awoiaf.westeros.org/index.php/Free_folk) and is bounded to the west by the [Frostfangs](https://awoiaf.westeros.org/index.php/Frostfangs) and to the east by the [Shivering Sea](https://awoiaf.westeros.org/index.php/Shivering_Sea) and the [Bay of Seals](https://awoiaf.westeros.org/index.php/Bay_of_Seals). North of the haunted forest is the unmapped [Land of Always Winter](https://awoiaf.westeros.org/index.php/Land_of_Always_Winter).
+> [^0-24]:the hairs on the back of the neck of a dog, cat, etc. that rise when the animal is afraid or angry
+> [^0-25]:a person who makes a criminal raid on a place
+> [^0-26]:if sth dry and light **rustles** or you **rustle** **it**, it makes a sound like paper, leaves, etc. moving or rubbing together
+> [^0-27]:(of strong negative opinions or feelings) that cannot be changed
+> [^0-28]:determined to achieve something at all costs.
+> [^0-29]:**a** [person](https://dictionary.cambridge.org/dictionary/english/person) **who will** [legally](https://dictionary.cambridge.org/dictionary/english/legal) [receive](https://dictionary.cambridge.org/dictionary/english/receive) [money](https://dictionary.cambridge.org/dictionary/english/money)**,** [property](https://dictionary.cambridge.org/dictionary/english/property), or a [title](https://dictionary.cambridge.org/dictionary/english/title) from another [person](https://dictionary.cambridge.org/dictionary/english/person)**,** [especially](https://dictionary.cambridge.org/dictionary/english/especially) an [older](https://dictionary.cambridge.org/dictionary/english/old) [member](https://dictionary.cambridge.org/dictionary/english/member) of the same [family](https://dictionary.cambridge.org/dictionary/english/family), when that other [person](https://dictionary.cambridge.org/dictionary/english/person) [dies](https://dictionary.cambridge.org/dictionary/english/die)
+> [^0-30]: The destrier is the best-known war horse of the Middle Ages. It carried knights in battles, tournaments, and jousts
+> [^0-31]: (tower over/above sb/sth) to be much higher or taller than the people or things that are near
+> [^0-32]:a small, sturdy workhorse of a breed originating in Ireland and Scotland.
+> [^0-33]:a type of strong cotton cloth with a soft surface, used for making clothes
+> [^0-34]: soft and able to bend easily without starting to split
+> [^0-35]:shining brightly because of being very clean
+> [^0-36]:an assumed type of personal armour constructed as series of metallic rings sewn to a fabric or leather foundation.
+> [^0-37]:often referred to by its French translation, **cuir bouilli** (French: [[kɥiʁ buji\]](https://en.wikipedia.org/wiki/Help:IPA/French)), was a historical material common in the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages) and [Early Modern Period](https://en.wikipedia.org/wiki/Early_Modern_Period) and used for various purposes.
+> [^0-38]:a member of the [Kingsguard](https://awoiaf.westeros.org/index.php/Kingsguard) or the [Night's Watch](https://awoiaf.westeros.org/index.php/Night's_Watch), two [Westerosi](https://awoiaf.westeros.org/index.php/Westeros) orders that require to swear an solemn oath of service for life. Members formally refer to each other as Sworn Brothers, or Brothers for short. Night's Watch men are also called "**black brothers**" for the color of their clothes
+> [^0-39]:[countable] a type of work or way of life that you believe is especially suitable for you
+> [^0-40]:[usually sing.] the clothes that a person has
+> [^0-41]:making sth perfect or complete
+> [^0-42]: [uncountable] the skin and fur of the sable, used for making expensive coats and artists’ brushes
+> [^0-43]:
+> [^0-44]:(*especially literary*) very strong and powerful
+> [^0-45]:[intransitive, transitive] to think carefully and deeply about sth
+> [^0-46]:(of a person) to shake slightly because you are cold, frightened, excited, etc.
+>
+> [^0-47]:(*especially* *NAmE*) (*old-fashioned* or *literary* in *BrE*) on top of; at the top of
+> [^0-48]:**House Mormont of Bear Island** is a noble house of the [north](https://awoiaf.westeros.org/index.php/North), one of the principal families sworn to [House Stark](https://awoiaf.westeros.org/index.php/House_Stark). Their seat is at [Bear Island](https://awoiaf.westeros.org/index.php/Bear_Island), located in the [Bay of Ice](https://awoiaf.westeros.org/index.php/Bay_of_Ice) northwest of [Winterfell](https://awoiaf.westeros.org/index.php/Winterfell). Their blazon is a black [bear](https://awoiaf.westeros.org/index.php/Bear) over a green wood and their motto is "Here We Stand".
+>
+> [^0-49]:two weeks
+> [^0-50]:[transitive] to watch or to look at sb/sth carefully in order to find out sth
+> [^0-51]:a person who illegally hunts birds, animals or fish on sb’s else’s property
+> [^0-52]: **House Mallister of Seagard** is one of the most prominent noble houses from the [riverlands](https://awoiaf.westeros.org/index.php/Riverlands). [Seagard](https://awoiaf.westeros.org/index.php/Seagard) is a fortress built to defend the coast against the reavers from the [Iron Islands](https://awoiaf.westeros.org/index.php/Iron_Islands), and dates from before [Aegon's Conquest](https://awoiaf.westeros.org/index.php/Aegon's_Conquest).
+> [^0-53]:"Freerider" is a broad term, sometimes used to denote a [mounted](https://awoiaf.westeros.org/index.php/Horse) sellsword, but more often referring to other mounted fighters who are not part of a [lord](https://awoiaf.westeros.org/index.php/Lord)'s retinue or [feudal](https://awoiaf.westeros.org/index.php/Feudalism) levy. Most do not collect wages, instead fighting for plunder or a hope to be taken into a lord or knight's service. Freeriders are mostly used as scouts, outriders, foragers, and light cavalry.
+>
+> [^0-54]:**to** [find](https://dictionary.cambridge.org/dictionary/english/find) **someone in the** [act](https://dictionary.cambridge.org/dictionary/english/act) **of doing something** [illegal](https://dictionary.cambridge.org/dictionary/english/illegal)
+>
+> [^0-55]:[countable] a male DEER, HARE or RABBIT
+> [^0-56]:a narrow area of high land along the top of a line of hills; a high pointed area near the top of a mountain
+> [^0-57]:type of simple structure originally added to an existing building with the rafters "leaning" against another wall
+> [^0-58]:very clearly.
+> [^0-59]:https://zh.hinative.com/questions/12901152
+> [^0-60]:(**shrugging**, **shrugged**) [intransitive, transitive, no passive] to raise your shoulders and then drop them to show that you do not know or care about sth
+> [^0-61]:[sing.] a feeling of fear
+> [^0-62]:[transitive, intransitive] to speak or say sth in a quiet voice that is difficult to hear, especially because you are annoyed about sth
+>
+> [^0-63]:having hair that is grey or partly grey
+> [^0-64]:not showing much care or thought; seeming not to be worried; not wanting to show that sth is important to you
+> [^0-65]:a long thick curtain
+> [^0-66]:
+> [^0-67]:(of a storm, etc.) very violent, with strong winds
+> [^0-68]:to approach someone or something in a quick, sneaky, and furtive manner so as to reach them or it without being noticed
+> [^0-69]:[intransitive] (of teeth) to knock together continuously because you are cold or frightened
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
 
 
 
@@ -304,6 +370,34 @@ The breath of man and horse mingled, steaming, in the cold morning air as his lo
 # CHAPTER TWO: CATELYN
 
 # CHAPTER THREE: DAENERYS
+
+
+
+The Dothraki sea,” Ser Jorah Mormont said as he reined to a halt beside her on the top of the ridge. beneath them, the plain stretched out immense and empty, a vast flat expanse that reached to the distant horizon and beyond. It *was* a sea, Dany thought. Past here, there were no hills, no mountains, no trees nor cities nor roads, only the endless grasses, the tall blades rippling like waves when the winds blew. “It’s so green,” she said.
+
+“Here and now,” Ser Jorah agreed. “You ought to see it when it blooms, all dark red flowers from horizon to horizon, like a sea of blood. Come the dry season, and the world turns the color of old bronze. And this is only hranna, child. There are a hundred kinds of grass out there, grasses as yellow as lemon and as dark as indigo, blue grasses and orange grasses and grasses like rainbows. Down in the Shadow Lands beyond Asshai, they say there are oceans of ghost grass, taller than a man on horseback with stalks as pale as milkglass. It murders all other grass and glows in the dark with the spirits of the damned. The Dothraki claim that someday ghost grass will cover the entire world, and then all life will end.”
+
+That thought gave Dany the shivers. “I don’t want to talk about that now,” she said. “It’s so beautiful here, I don’t want to think about everything dying.”
+
+“As you will, *Khaleesi*,” Ser Jorah said respectfully.
+
+She heard the sound of voices and turned to look behind her. She and Mormont had outdistanced the rest of their party, and now the others were climbing the ridge below them. Her handmaid Irri and the young archers of her *khas* were fluid as centaurs, but Viserys still struggled with the short stirrups and the flat saddle. Her brother was miserable out here. He ought never have come. Magister Illyrio had urged him to wait in Pentos, had offered him the hospitality of his manse, but Viserys would have none of it. He would stay with Drogo until the debt had been paid, until he had the crown he had been promised. “And if he tries to cheat me, he will learn to his sorrow what it means to wake the dragon,” Viserys had vowed, laying a hand on his borrowed sword. Illyrio had blinked at that and wished him good fortune.
+
+Dany realized that she did not want to listen to any of her brother’s complaints right now. The day was too perfect. The sky was a deep blue, and high above them a hunting hawk circled. The grass sea swayed and sighed with each breath of wind, the air was warm on her face, and Dany felt at peace. She would not let Viserys spoil it.
+
+“Wait here,” Dany told Ser Jorah. “Tell them all to stay. Tell them I command it.”
+
+The knight smiled. Ser Jorah was not a handsome man. He had a neck and shoulders like a bull, and coarse black hair covered his arms and chest so thickly that there was none left for his head. Yet his smiles gave Dany comfort. “You are learning to talk like a queen, Daenerys.”
+
+“Not a queen,” said Dany. “A *khaleesi*.” She wheeled her horse about and galloped down the ridge alone.
+
+
+
+
+
+
+
+
 
 # CHAPTER FOUR: EDDARD
 
