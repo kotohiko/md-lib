@@ -117,23 +117,25 @@ Will **shrugged**[^0-60]. “A couple are sitting up against the rock. Most of t
 
 The young knight turned back to his **grizzled**[^0-63] man-at-arms. Frostfallen leaves whispered past them, and Royce’s destrier moved restlessly. “What do you think might have killed these men, Gared?” Ser Waymar asked **casually**[^0-64]. He adjusted the **drape**[^0-65] of his long sable cloak.
 
-“It was the cold,” Gared said with iron certainty. “I saw men freeze last winter, and the one before, when I was **half a boy**[^0-66]. Everyone talks about snows forty foot deep, and how the ice wind comes **howling**[^0-67] out of the north, but the real enemy is the cold. It **steals up**[^0-68] on you quieter than Will, and at first you shiver and your teeth **chatter**[^0-69] and you stamp your feet and dream of mulled wine and nice hot fires. It burns, it does. Nothing burns like the cold. But only for a while. Then it gets inside you and starts to fill you up, and after a while you don’t have the strength to fight it. It’s easier just to sit down or go to sleep. They say you don’t feel any pain toward the end. First you go weak and drowsy, and everything starts to fade, and then it’s like sinking into a sea of warm milk. Peaceful, like.”
+“It was the cold,” Gared said with iron certainty. “I saw men freeze last winter, and the one before, when I was **half a boy**[^0-66]. Everyone talks about snows forty foot deep, and how the ice wind comes **howling**[^0-67] out of the north, but the real enemy is the cold. It **steals up**[^0-68] on you quieter than Will, and at first you shiver and your teeth **chatter**[^0-69] and you **stamp**[^0-70] your feet and dream of **mulled**[^0-71] wine and nice hot fires. It burns, it does. Nothing burns like the cold. But only for a while. Then it gets inside you and starts to fill you up, and after a while you don’t have the strength to fight it. It’s easier just to sit down or go to sleep. They say you don’t feel any pain toward the end. First you go weak and **drowsy**[^0-72], and everything starts to fade, and then it’s like sinking into a sea of warm milk. Peaceful, like.”
 
-“Such eloquence, Gared,” Ser Waymar observed. “I never suspected you had it in you.” “I’ve had the cold in me too, lordling.” Gared pulled back his hood, giving Ser Waymar a good long look at the stumps where his ears had been. “Two ears, three toes, and the little finger off my left hand. I got off light. We found my brother frozen at his watch, with a smile on his face.”
+“Such **eloquence**[^0-73], Gared,” Ser Waymar observed. “I never **suspected**[^0-74] you had it in you.”
+
+“I’ve had the cold in me too, lordling.” Gared pulled back his hood, giving Ser Waymar a good long look at the **stumps**[^0-75] where his ears had been. “Two ears, three toes, and the little finger off my left hand. I got off light. We found my brother frozen at his **watch**[^0-76], with a smile on his face.”
 
 Ser Waymar shrugged. “You ought dress more warmly, Gared.”
 
-Gared glared at the lordling, the scars around his ear holes flushed red with anger where Maester Aemon had cut the ears away. “We’ll see how warm you can dress when the winter comes.” He pulled up his hood and hunched over his garron, silent and sullen.
+Gared glared at the lordling, the scars around his ear holes flushed red with anger where **Maester Aemon**[^0-77] had cut the ears away. “We’ll see how warm you can dress when the winter comes.” He pulled up his hood and **hunched**[^0-78] over his garron, silent and **sullen**[^0-79].
 
 “If Gared said it was the cold. . .”Will began.
 
-“Have you drawn any watches this past week, Will?”
+“Have you **drawn any watches**[^0-80] this past week, Will?”
 
 “Yes, m’lord.” There never was a week when he did not draw a dozen bloody watches. What was the man driving at?
 
 “And how did you find the Wall?”
 
-“Weeping,” Will said, frowning. He saw it clear enough, now that the lordling had pointed it out. “They couldn’t have froze. Not if the Wall was weeping. It wasn’t cold enough.”
+“**Weeping**[^0-81],” Will said, **frowning**[^0-82]. He saw it clear enough, now that the lordling had pointed it out. “They couldn’t have froze. Not if the Wall was weeping. It wasn’t cold enough.”
 
 Royce nodded. “Bright lad. We’ve had a few light frosts this past week, and a quick flurry of snow now and then, but surely no cold fierce enough to kill eight grown men. Men clad in fur and leather, let me remind you, with shelter near at hand, and the means of making fire.” The knight’s smile was cocksure. “Will, lead us there. I would see these dead men for myself.”
 
@@ -330,7 +332,6 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-60]:(**shrugging**, **shrugged**) [intransitive, transitive, no passive] to raise your shoulders and then drop them to show that you do not know or care about sth
 > [^0-61]:[sing.] a feeling of fear
 > [^0-62]:[transitive, intransitive] to speak or say sth in a quiet voice that is difficult to hear, especially because you are annoyed about sth
->
 > [^0-63]:having hair that is grey or partly grey
 > [^0-64]:not showing much care or thought; seeming not to be worried; not wanting to show that sth is important to you
 > [^0-65]:a long thick curtain
@@ -339,13 +340,17 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-68]:to approach someone or something in a quick, sneaky, and furtive manner so as to reach them or it without being noticed
 > [^0-69]:[intransitive] (of teeth) to knock together continuously because you are cold or frightened
 >
-> 
+> [^0-70]:[transitive, intransitive] **stamp (sth)** to put your foot down heavily and noisily on the ground
 >
-> 
->
-> 
->
-> 
+> [^0-71]:to spend time thinking carefully about a plan or proposal
+> [^0-72]:tired and wanting to sleep
+> [^0-73]:fluent or persuasive speaking or writing.
+> [^0-74]:[transitive, intransitive] to have an idea that sth is probably true or likely to happen, especially sth bad, but without having definite proof
+> [^0-75]:[countable] the short part of sb’s leg ir arm that is left after the rest has been cut off
+> [^0-76]:
+> [^0-77]:
+> [^0-78]:[intransitive, transitive] to bend the top part of your body forward and raise your shoulders and back
+> [^0-79]:(disapproving) in a bad mood and not speaking, either on a particular occasion or because it is part of your character
 >
 > 
 >
