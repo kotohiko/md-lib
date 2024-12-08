@@ -59,7 +59,7 @@
 
 “Do the dead frighten you?” **Ser**[^0-2] Waymar Royce asked with just the **hint**[^0-3] of a smile.
 
-Gared did not rise to the **bait**[^0-4]. He was an old man, past fifty, and he had seen the **lordlings**[^0-5] come and go. “Dead is dead,” he said. “We have no business with the dead.”
+Gared did not **rise to the bait**[^0-4]. He was an old man, past fifty, and he had seen the **lordlings**[^0-5] come and go. “Dead is dead,” he said. “We have no business with the dead.”
 
 “Are they dead?” Royce asked softly. “What proof have we?”
 
@@ -91,9 +91,9 @@ It is hard to take orders from a man you laughed at in your cups, Will **reflect
 
 The lordling seemed not to hear him. He **studied**[^0-50] the deepening twilight in that half-bored, half-distracted way he had. Will had ridden with the knight long enough to understand that it was best not to interrupt him when he looked like that. “Tell me again what you saw, Will. All the details. Leave nothing out.”
 
-Will had been a hunter before he joined the Night’s Watch. Well, a **poacher**[^0-51] in truth. **Mallister**[^0-52] **freeriders**[^0-53] had caught him **red-handed**[^0-54] in the Mallisters’ own woods, skinning one of the Mallisters’ own **bucks**[^0-55], and it had been a choice of putting on the black or losing a hand. No one could move through the woods as silent as Will, and it had not taken the black brothers long to discover his talent.
+Will had been a hunter before he joined the Night’s Watch. Well, a **poacher**[^0-51] in truth. **Mallister**[^0-52] **freeriders**[^0-53] had caught him red-handed in the Mallisters’ own woods, skinning one of the Mallisters’ own **bucks**[^0-54], and it had been a choice of putting on the black or losing a hand. No one could move through the woods as silent as Will, and it had not taken the black brothers long to discover his talent.
 
-“The camp is two miles farther on, over that **ridge**[^0-56], hard beside a stream,” Will said. “I got close as I dared. There’s eight of them, men and women both. No children I could see. They put up a **lean-to**[^0-57] against the rock. The snow’s pretty well covered it now, but I could still make it out. No fire burning, but the firepit was still **plain as day**[^0-58]. No one moving. I watched a long time. No living man ever lay so still.”
+“The camp is two miles farther on, over that **ridge**[^0-55], hard beside a stream,” Will said. “I got close as I dared. There’s eight of them, men and women both. No children I could see. They put up a **lean-to**[^0-56] against the rock. The snow’s pretty well covered it now, but I could still make it out. No fire burning, but the firepit was still **plain as day**[^0-57]. No one moving. I watched a long time. No living man ever lay so still.”
 
 “Did you see any blood?”
 
@@ -101,27 +101,27 @@ Will had been a hunter before he joined the Night’s Watch. Well, a **poacher**
 
 “Did you see any weapons?”
 
-“Some swords, a few bows. One man had an axe. Heavy-looking, doublebladed, **a cruel piece of iron**[^0-59]. It was on the ground beside him, right by his hand.”
+“Some swords, a few bows. One man had an axe. Heavy-looking, doublebladed, **a cruel piece of iron**[^0-58]. It was on the ground beside him, right by his hand.”
 
 “Did you make note of the position of the bodies?”
 
-Will **shrugged**[^0-60]. “A couple are sitting up against the rock. Most of them on the ground. Fallen, like.”
+Will **shrugged**[^0-59]. “A couple are sitting up against the rock. Most of them on the ground. Fallen, like.”
 
 “Or sleeping,” Royce suggested.
 
 “Fallen,” Will insisted. “There’s one woman up an ironwood, half-hid in the branches. A far-eyes.” He smiled thinly. “I took care she never saw me. When I got closer, I saw that she wasn’t moving neither.” Despite himself, he shivered.
 
-“You have a **chill**[^0-61]?” Royce asked.
+“You have a **chill**[^0-60]?” Royce asked.
 
-“Some,” Will **muttered**[^0-62]. “The wind, m’lord.”
+“Some,” Will **muttered**[^0-61]. “The wind, m’lord.”
 
-The young knight turned back to his **grizzled**[^0-63] man-at-arms. Frostfallen leaves whispered past them, and Royce’s destrier moved restlessly. “What do you think might have killed these men, Gared?” Ser Waymar asked **casually**[^0-64]. He adjusted the **drape**[^0-65] of his long sable cloak.
+The young knight turned back to his **grizzled**[^0-62] man-at-arms. Frostfallen leaves whispered past them, and Royce’s destrier moved restlessly. “What do you think might have killed these men, Gared?” Ser Waymar asked **casually**[^0-63]. He adjusted the **drape**[^0-64] of his long sable cloak.
 
-“It was the cold,” Gared said with iron certainty. “I saw men freeze last winter, and the one before, when I was **half a boy**[^0-66]. Everyone talks about snows forty foot deep, and how the ice wind comes **howling**[^0-67] out of the north, but the real enemy is the cold. It **steals up**[^0-68] on you quieter than Will, and at first you shiver and your teeth **chatter**[^0-69] and you **stamp**[^0-70] your feet and dream of **mulled**[^0-71] wine and nice hot fires. It burns, it does. Nothing burns like the cold. But only for a while. Then it gets inside you and starts to fill you up, and after a while you don’t have the strength to fight it. It’s easier just to sit down or go to sleep. They say you don’t feel any pain toward the end. First you go weak and **drowsy**[^0-72], and everything starts to fade, and then it’s like sinking into a sea of warm milk. Peaceful, like.”
+“It was the cold,” Gared said with iron certainty. “I saw men freeze last winter, and the one before, when I was **half a boy**[^0-65]. Everyone talks about snows forty foot deep, and how the ice wind comes **howling**[^0-66] out of the north, but the real enemy is the cold. It **steals up**[^0-67] on you quieter than Will, and at first you shiver and your teeth **chatter**[^0-68] and you **stamp**[^0-69] your feet and dream of **mulled**[^0-70] wine and nice hot fires. It burns, it does. Nothing burns like the cold. But only for a while. Then it gets inside you and starts to fill you up, and after a while you don’t have the strength to fight it. It’s easier just to sit down or go to sleep. They say you don’t feel any pain toward the end. First you go weak and **drowsy**[^0-71], and everything starts to fade, and then it’s like sinking into a sea of warm milk. Peaceful, like.”
 
-“Such **eloquence**[^0-73], Gared,” Ser Waymar observed. “I never **suspected**[^0-74] you had it in you.”
+“Such **eloquence**[^0-72], Gared,” Ser Waymar observed. “I never **suspected**[^0-73] you had it in you.”
 
-“I’ve had the cold in me too, lordling.” Gared pulled back his hood, giving Ser Waymar a good long look at the **stumps**[^0-75] where his ears had been. “Two ears, three toes, and the little finger off my left hand. I got off light. We found my brother frozen at his **watch**[^0-76], with a smile on his face.”
+“I’ve had the cold in me too, lordling.” Gared pulled back his hood, giving Ser Waymar a good long look at the **stumps**[^0-74] where his ears had been. “Two ears, three toes, and the little finger off my left hand. I **got off light**[^0-75]. We found my brother frozen at his **watch**[^0-76], with a smile on his face.”
 
 Ser Waymar shrugged. “You ought dress more warmly, Gared.”
 
@@ -131,109 +131,119 @@ Gared glared at the lordling, the scars around his ear holes flushed red with an
 
 “Have you **drawn any watches**[^0-80] this past week, Will?”
 
-“Yes, m’lord.” There never was a week when he did not draw a dozen bloody watches. What was the man driving at?
+“Yes, m’lord.” There never was a week when he did not draw a dozen bloody watches. What was the man **driving at**[^0-81]?
 
-“And how did you find the Wall?”
+“And **how did you find**[^0-82] the Wall?”
 
-“**Weeping**[^0-81],” Will said, **frowning**[^0-82]. He saw it clear enough, now that the lordling had pointed it out. “They couldn’t have froze. Not if the Wall was weeping. It wasn’t cold enough.”
+“**Weeping**[^0-83],” Will said, **frowning**[^0-84]. He saw it clear enough, now that the lordling had pointed it out. “They couldn’t have froze. Not if the Wall was weeping. It wasn’t cold enough.”
 
-Royce nodded. “Bright lad. We’ve had a few light frosts this past week, and a quick flurry of snow now and then, but surely no cold fierce enough to kill eight grown men. Men clad in fur and leather, let me remind you, with shelter near at hand, and the means of making fire.” The knight’s smile was cocksure. “Will, lead us there. I would see these dead men for myself.”
+Royce nodded. “Bright lad. We’ve had a few light frosts this past week, and a quick **flurry**[^0-85] of snow now and then, but surely no cold fierce enough to kill eight grown men. Men **clad**[^0-86] in fur and leather, let me remind you, with shelter near at hand, and the means of making fire.” The knight’s smile was **cocksure**[^0-87]. “Will, lead us there. I would see these dead men for myself.”
 
 And then there was nothing to be done for it. The order had been given, and honor bound them to obey.
 
-Will went in front, his shaggy little garron picking the way carefully through the undergrowth. A light snow had fallen the night before, and there were stones and roots and hidden sinks lying just under its crust, waiting for the careless and the unwary. Ser Waymar Royce came next, his great black destrier snorting impatiently. The warhorse was the wrong mount for ranging, but try and tell that to the lordling. Gared brought up the rear. The old man-at-arms muttered to himself as he rode.
+Will went in front, his **shaggy**[^0-88] little garron picking the way carefully through the **undergrowth**[^0-89]. A light snow had fallen the night before, and there were stones and roots and hidden **sinks**[^0-90] lying just under its **crust**[^0-91], waiting for the careless and the **unwary**[^0-92]. Ser Waymar Royce came next, his great black destrier **snorting**[^0-93] impatiently. ==The warhorse was the wrong mount for ranging, but **try and tell that to the lordling**[^0-94].== Gared brought up the **rear**[^0-95]. The old man-at-arms muttered to himself as he rode.
 
-Twilight deepened. The cloudless sky turned a deep purple, the color of an old bruise, then faded to black. The stars began to come out. A half-moon rose. Will was grateful for the light.
+Twilight deepened. The cloudless sky turned a deep purple, the color of an old **bruise**[^0-96], then faded to black. The stars began to come out. A half-moon rose. Will was grateful for the light.
 
 “We can make a better pace than this, surely,” Royce said when the moon was full risen.
 
-“Not with this horse,” Will said. Fear had made him insolent. “Perhaps my lord would care to take the lead?”
+“Not with this horse,” Will said. Fear had made him **insolent**[^0-97]. “Perhaps my lord would care to take the lead?”
 
-Ser Waymar Royce did not deign to reply.
+Ser Waymar Royce did not **deign**[^0-98] to reply.
 
-Somewhere off in the wood a wolf howled.
+Somewhere off in the wood a wolf **howled**[^0-99].
 
-Will pulled his garron over beneath an ancient gnarled ironwood and dismounted.
+Will pulled his garron over beneath an ancient **gnarled**[^0-100] ironwood and dismounted.
 
-“Why are you stopping?”Ser Waymar asked.
+“Why are you stopping?” Ser Waymar asked.
 
 “Best go the rest of the way on foot, m’lord. It’s just over that ridge.”
 
-Royce paused a moment, staring off into the distance, his face reflective. A cold wind whispered through the trees. His great sable cloak stirred behind like something half-alive.
+Royce paused a moment, staring off into the distance, his face reflective. A cold wind whispered through the trees. His great sable cloak **stirred**[^0-101] behind like something half-alive.
 
 “There’s something wrong here,” Gared muttered.
 
-The young knight gave him a disdainful smile. “Is there?” “Can’t you feel it?”
+The young knight gave him a **disdainful**[^0-102] smile. “Is there?”
 
-Gared asked. “Listen to the darkness.”
+“Can’t you feel it?” Gared asked. “Listen to the darkness.”
 
 Will could feel it. Four years in the Night’s Watch, and he had never been so afraid. What was it?
 
-“Wind. Trees rustling. A wolf. Which sound is it that unmans you so, Gared?” When Gared did not answer, Royce slid gracefully from his saddle. He tied the destrier securely to a low-hanging limb, well away from the other horses, and drew his longsword from its sheath. Jewels glittered in its hilt, and the moonlight ran down the shining steel. It was a splendid weapon, castle-forged, and new-made from the look of it. Will doubted it had ever been swung in anger.
+“Wind. Trees rustling. A wolf. Which sound is it that unmans you so, Gared?” When Gared did not answer, Royce slid gracefully from his **saddle**[^0-103]. He tied the destrier securely to a low-hanging **limb**[^0-104], **well away**[^0-105] from the other horses, and drew his longsword from its **sheath**[^0-106]. Jewels **glittered**[^0-107] in its **hilt**[^0-108], and the moonlight **ran down the shining steel**[^0-109]. It was a splendid weapon, castle-**forged**[^0-110], and new-made from the look of it. Will doubted it had ever been **swung in anger**[^0-111].
 
-“The trees press close here,” Will warned. “That sword will tangle you up, m’lord. Better a knife.”
+“The trees **press close**[^0-112] here,” Will warned. “That sword will **tangle you up**[^0-113], m’lord. Better a knife.”
 
-“If I need instruction, I will ask for it,” the young lord said. “Gared, stay here. Guard the horses.” Gared dismounted. “We need a fire. I’ll see to it.”
+“If I need instruction, I will ask for it,” the young lord said. “Gared, stay here. Guard the horses.”
+
+Gared dismounted. “We need a fire. I’ll see to it.”
 
 “How big a fool are you, old man? If there are enemies in this wood, a fire is the last thing we want.”
 
-“There’s some enemies a fire will keep away,” Gared said. “Bears and direwolves and. . . and other things. . .” Ser Waymar’s mouth became a hard line. “No fire.”
+“There’s some enemies a fire will keep away,” Gared said. “Bears and direwolves and. . . and other things. . .”
 
-Gared’s hood shadowed his face, but Will could see the hard glitter in his eyes as he stared at the knight. For a moment he was afraid the older man would go for his sword. It was a short, ugly thing, its grip discolored by sweat, its edge nicked from hard use, but Will would not have given an iron bob for the lordling’s life if Gared pulled it from its scabbard.
+Ser Waymar’s **mouth became a hard line**[^0-114]. “No fire.”
+
+Gared’s hood shadowed his face, but Will could see the hard glitter in his eyes as he stared at the knight. For a moment he was afraid the older man would **go for his sword**[^0-115]. It was a short, ugly thing, its **grip**[^0-116] discolored by sweat, its edge **nicked**[^0-117] from hard use, but Will would not have given an iron **bob**[^0-118] for the lordling’s life if Gared pulled it from its **scabbard**[^0-119].
 
 Finally Gared looked down. “No fire,” he muttered, low under his breath.
 
-Royce took it for acquiescence and turned away. “Lead on,” he said to Will.
+Royce **took it for acquiescence**[^0-120] and turned away. “Lead on,” he said to Will.
 
-Will threaded their way through a thicket, then started up the slope to the low ridge where he had found his vantage point under a sentinel tree. Under the thin crust of snow, the ground was damp and muddy, slick footing, with rocks and hidden roots to trip you up. Will made no sound as he climbed. Behind him, he heard the soft metallic slither of the lordling’s ringmail, the rustle of leaves, and muttered curses as reaching branches grabbed at his longsword and tugged on his splendid sable cloak.
+Will **threaded**[^0-121] their way through a **thicket**[^0-122], then started up the **slope**[^0-123] to the low ridge where he had found his **vantage**[^0-124] point under a sentinel tree. Under the thin crust of snow, the ground was **damp**[^0-125] and muddy, **slick**[^0-126] footing, with rocks and hidden roots to **trip you up**[^0-127]. Will made no sound as he climbed. Behind him, he heard the soft metallic **slither**[^0-128] of the lordling’s ringmail, the rustle of leaves, and muttered curses as reaching branches grabbed at his longsword and **tugged**[^0-129] on his splendid sable cloak.
 
-The great sentinel was right there at the top of the ridge, where Will had known it would be, its lowest branches a bare foot off the ground. Will slid in underneath, flat on his belly in the snow and the mud, and looked down on the empty clearing below.
+The great sentinel was right there at the top of the ridge, where Will had known it would be, its lowest branches a **bare**[^0-130] **foot**[^0-131] off the ground. Will slid in **underneath**[^0-132], flat on his belly in the snow and the mud, and looked down on the empty clearing below.
 
 His heart stopped in his chest. For a moment he dared not breathe. Moonlight shone down on the clearing, the ashes of the firepit, the snow-covered lean-to, the great rock, the little half-frozen stream. Everything was just as it had been a few hours ago.
 
 They were gone. All the bodies were gone.
 
-“Gods!” he heard behind him. A sword slashed at a branch as Ser Waymar Royce gained the ridge. He stood there beside the sentinel, longsword in hand, his cloak billowing behind him as the wind came up, outlined nobly against the stars for all to see.
+“Gods!” he heard behind him. A sword **slashed**[^0-133] at a branch as Ser Waymar Royce gained the ridge. He stood there beside the sentinel, longsword in hand, his cloak **billowing**[^0-134] behind him as the wind came up, outlined nobly against the stars for all to see.
 
 “Get *down!*” Will whispered urgently. “Something’s wrong.”
 
 Royce did not move. He looked down at the empty clearing and laughed. “Your dead men seem to have moved camp, Will.”
 
-Will’s voice abandoned him. He groped for words that did not come. It was not possible. His eyes swept back and forth over the abandoned campsite, stopped on the axe. A huge double-bladed battle-axe, still lying where he had seen it last, untouched. A valuable weapon. . . “On your feet, Will,” Ser Waymar commanded. “There’s no one here. I won’t have you hiding under a bush.” Reluctantly, Will obeyed. Ser Waymar looked him over with open disapproval. “I am not going back to Castle Black a failure on my first ranging. We will find these men.” He glanced around. “Up the tree. Be quick about it. Look for a fire.” Will turned away, wordless. There was no use to argue. The wind was moving. It cut right through him. He went to the tree, a vaulting grey-green sentinel, and began to climb. Soon his hands were sticky with sap, and he was lost among the needles. Fear filled his gut like a meal he could not digest. He whispered a prayer to the nameless gods of the wood, and slipped his dirk free of its sheath. He put it between his teeth to keep both hands free for climbing. The taste of cold iron in his mouth gave him comfort.
+**Will’s voice abandoned him**[^0-135]. He **groped**[^0-136] for words that did not come. It was not possible. His eyes swept back and **forth**[^0-137] over the abandoned campsite, stopped on the axe. A huge double-bladed battle-axe, still lying where he had seen it last, **untouched**[^0-138]. A valuable weapon. . . “On your feet, Will,” Ser Waymar commanded. “There’s no one here. I won’t have you hiding under a bush.”
+
+**Reluctantly**[^0-139], Will obeyed.
+
+Ser Waymar looked him over with open disapproval. “I am not going back to Castle Black a failure on my first ranging. We *will* find these men.” He glanced around. “Up the tree. Be quick about it. Look for a fire.”
+
+Will turned away, wordless. There was no use to argue. The wind was moving. It cut right through him. He went to the tree, a **vaulting**[^0-140] grey-green sentinel, and began to climb. Soon his hands were sticky with **sap**[^0-141], and he was lost among the needles. Fear filled his **gut**[^0-142] like a meal he could not digest. He whispered a prayer to the nameless gods of the wood, and **slipped**[^0-143] his **dirk**[^0-144] free of its **sheath**[^0-145]. He put it between his teeth to keep both hands free for climbing. The taste of cold iron in his mouth gave him comfort.
 
 Down below, the lordling called out suddenly, “Who goes there?” Will heard uncertainty in the challenge. He stopped climbing; he listened; he watched.
 
-The woods gave answer: the rustle of leaves, the icy rush of the stream, a distant hoot of a snow owl.
+The woods gave answer: the rustle of leaves, the icy rush of the stream, a distant **hoot**[^0-146] of a snow owl.
 
-The Others made no sound.
+==The **Others**[^0-147] made no sound.==
 
-Will saw movement from the corner of his eye. Pale shapes gliding through the wood. He turned his head, glimpsed a white shadow in the darkness. Then it was gone. Branches stirred gently in the wind, scratching at one another with wooden fingers. Will opened his mouth to call down a warning, and the words seemed to freeze in his throat. Perhaps he was wrong. Perhaps it had only been a bird, a reflection on the snow, some trick of the moonlight. What had he seen, after all?
+Will saw movement from the corner of his eye. **Pale**[^0-148] shapes **gliding**[^0-149] through the wood. He turned his head, glimpsed a white shadow in the darkness. Then it was gone. Branches stirred gently in the wind, **scratching**[^0-150] at one another with wooden fingers. Will opened his mouth to call down a warning, and the words seemed to freeze in his throat. Perhaps he was wrong. Perhaps it had only been a bird, a reflection on the snow, some **trick**[^0-151] of the moonlight. What had he seen, after all?
 
 “Will, where are you?” Ser Waymar called up. “Can you see anything?” He was turning in a slow circle, suddenly wary, his sword in hand. He must have felt them, as Will felt them. There was nothing to see. “Answer me! Why is it so cold?”
 
-It *was* cold. Shivering, Will clung more tightly to his perch. His face pressed hard against the trunk of the sentinel. He could feel the sweet, sticky sap on his cheek.
+It *was* cold. Shivering, Will **clung**[^0-152] more tightly to his **perch**[^0-153]. His face pressed hard against the **trunk**[^0-154] of the sentinel. He could feel the sweet, sticky sap on his cheek.
 
-A shadow emerged from the dark of the wood. It stood in front of Royce. Tall, it was, and gaunt and hard as old bones, with flesh pale as milk. Its armor seemed to change color as it moved; here it was white as new-fallen snow, there black as shadow, everywhere dappled with the deep grey-green of the trees. The patterns ran like moonlight on water with every step it took.
+A shadow emerged from the dark of the wood. It stood in front of Royce. Tall, it was, and **gaunt**[^0-155] and hard as old bones, with **flesh**[^0-156] pale as milk. Its armor seemed to change color as it moved; here it was white as new-fallen snow, there black as shadow, everywhere **dappled**[^0-157] with the deep grey-green of the trees. The patterns ran like moonlight on water with every step it took.
 
-Will heard the breath go out of Ser Waymar Royce in a long hiss. “Come no farther,” the lordling warned. His voice cracked like a boy’s. He threw the long sable cloak back over his shoulders, to free his arms for battle, and took his sword in both hands. The wind had stopped. It was very cold.
+Will heard the breath go out of Ser Waymar Royce in a long **hiss**[^0-158]. “Come no farther,” the lordling warned. His voice **cracked**[^0-159] like a boy’s. He threw the long sable cloak back over his shoulders, to free his arms for battle, and took his sword in both hands. The wind had stopped. It was very cold.
 
-The Other slid forward on silent feet. In its hand was a longsword like none that Will had ever seen. No human metal had gone into the forging of that blade. It was alive with moonlight, translucent, a shard of crystal so thin that it seemed almost to vanish when seen edge-on. There was a faint blue shimmer to the thing, a ghost-light that played around its edges, and somehow Will knew it was sharper than any razor.
+The Other slid forward on silent feet. In its hand was a longsword like none that Will had ever seen. No human metal had gone into the forging of that blade. It was alive with moonlight, **translucent**[^0-160], a **shard**[^0-161] of crystal so thin that it seemed almost to vanish when seen edge-on. There was a **faint**[^0-162] blue **shimmer**[^0-163] to the thing, a ghost-light that played around its edges, and somehow Will knew it was sharper than any **razor**[^0-164].
 
-Ser Waymar met him bravely. “Dance with me then.” He lifted his sword high over his head, defiant. His hands trembled from the weight of it, or perhaps from the cold. Yet in that moment, Will thought, he was a boy no longer, but a man of the Night’s Watch.
+Ser Waymar met him bravely. “Dance with me then.” He lifted his sword high over his head, **defiant**[^0-165]. His hands trembled from the weight of it, or perhaps from the cold. **Yet**[^0-166] in that moment, Will thought, he was a boy no longer, but a man of the Night’s Watch.
 
-The Other halted. Will saw its eyes; blue, deeper and bluer than any human eyes, a blue that burned like ice. They fixed on the longsword trembling on high, watched the moonlight running cold along the metal. For a heartbeat he dared to hope.
+The Other **halted**[^0-167]. Will saw its eyes; blue, deeper and bluer than any human eyes, a blue that burned like ice. They fixed on the longsword trembling on high, watched the moonlight running cold **along**[^0-168] the metal. For a heartbeat he dared to hope.
 
 They emerged silently from the shadows, twins to the first. Three of them. . . four. . . five. . . Ser Waymar may have felt the cold that came with them, but he never saw them, never heard them. Will had to call out. It was his duty. And his death, if he did. He shivered, and hugged the tree, and kept the silence.
 
 The pale sword came shivering through the air.
 
-Ser Waymar met it with steel. When the blades met, there was no ring of metal on metal; only a high, thin sound at the edge of hearing, like an animal screaming in pain. Royce checked a second blow, and a third, then fell back a step. Another flurry of blows, and he fell back again.
+Ser Waymar **met**[^0-169] it with steel. When the blades met, there was no ring of metal on metal; only a high, thin sound at the edge of hearing, like an animal screaming in pain. Royce **checked**[^0-170] a second **blow**[^0-171], and a third, then fell back a step. Another **flurry**[^0-172] of blows, and he fell back again.
 
-Behind him, to right, to left, all around him, the watchers stood patient, faceless, silent, the shifting patterns of their delicate armor making them all but invisible in the wood. Yet they made no move to interfere.
+Behind him, to right, to left, all around him, the watchers stood patient, faceless, silent, the shifting patterns of their **delicate**[^0-173] armor making them all but invisible in the wood. Yet they made no move to **interfere**[^0-174].
 
-Again and again the swords met, until Will wanted to cover his ears against the strange anguished keening of their clash. Ser Waymar was panting from the effort now, his breath steaming in the moonlight. His blade was white with frost; the Other’s danced with pale blue light.
+Again and again the swords met, until Will wanted to cover his ears against the strange **anguished**[^0-175] **keening**[^0-176] of their **clash**[^0-177]. Ser Waymar was **panting**[^0-178] from the **effort**[^0-179] now, his breath steaming in the moonlight. His blade was white with frost; the Other’s danced with pale blue light.
 
-Then Royce’s parry came a beat too late. The pale sword bit through the ringmail beneath his arm. The young lord cried out in pain. Blood welled between the rings. It steamed in the cold, and the droplets seemed red as fire where they touched the snow. Ser Waymar’s fingers brushed his side. His moleskin glove came away soaked with red.
+Then Royce’s **parry**[^0-180] came a beat too late. The pale sword bit through the ringmail beneath his arm. The young lord cried out in pain. Blood **welled**[^0-181] between the rings. It steamed in the cold, and the **droplets**[^0-182] seemed red as fire where they touched the snow. Ser Waymar’s fingers brushed his side. His moleskin glove came away soaked with red.
 
 The Other said something in a language that Will did not know; his voice was like the cracking of ice on a winter lake, and the words were mocking.
 
@@ -320,37 +330,134 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-50]:[transitive] to watch or to look at sb/sth carefully in order to find out sth
 > [^0-51]:a person who illegally hunts birds, animals or fish on sb’s else’s property
 > [^0-52]: **House Mallister of Seagard** is one of the most prominent noble houses from the [riverlands](https://awoiaf.westeros.org/index.php/Riverlands). [Seagard](https://awoiaf.westeros.org/index.php/Seagard) is a fortress built to defend the coast against the reavers from the [Iron Islands](https://awoiaf.westeros.org/index.php/Iron_Islands), and dates from before [Aegon's Conquest](https://awoiaf.westeros.org/index.php/Aegon's_Conquest).
-> [^0-53]:"Freerider" is a broad term, sometimes used to denote a [mounted](https://awoiaf.westeros.org/index.php/Horse) sellsword, but more often referring to other mounted fighters who are not part of a [lord](https://awoiaf.westeros.org/index.php/Lord)'s retinue or [feudal](https://awoiaf.westeros.org/index.php/Feudalism) levy. Most do not collect wages, instead fighting for plunder or a hope to be taken into a lord or knight's service. Freeriders are mostly used as scouts, outriders, foragers, and light cavalry.
+> [^0-53]: "Freerider" is a broad term, sometimes used to denote a [mounted](https://awoiaf.westeros.org/index.php/Horse) sellsword, but more often referring to other mounted fighters who are not part of a [lord](https://awoiaf.westeros.org/index.php/Lord)'s retinue or [feudal](https://awoiaf.westeros.org/index.php/Feudalism) levy. Most do not collect wages, instead fighting for plunder or a hope to be taken into a lord or knight's service. Freeriders are mostly used as scouts, outriders, foragers, and light cavalry.
+> [^0-54]: [countable] a male DEER, HARE or RABBIT
+> [^0-55]: a narrow area of high land along the top of a line of hills; a high pointed area near the top of a mountain
+> [^0-56]: type of simple structure originally added to an existing building with the rafters "leaning" against another wall
+> [^0-57]: very clearly.
+> [^0-58]: https://zh.hinative.com/questions/12901152
+> [^0-59]: (**shrugging**, **shrugged**) [intransitive, transitive, no passive] to raise your shoulders and then drop them to show that you do not know or care about sth
+> [^0-60]: [sing.] a feeling of fear
+> [^0-61]: [transitive, intransitive] to speak or say sth in a quiet voice that is difficult to hear, especially because you are annoyed about sth
+> [^0-62]: having hair that is grey or partly grey
+> [^0-63]: not showing much care or thought; seeming not to be worried; not wanting to show that sth is important to you
+> [^0-64]: a long thick curtain
+> [^0-65]: 
+> [^0-66]: (of a storm, etc.) very violent, with strong winds
+> [^0-67]: to approach someone or something in a quick, sneaky, and furtive manner so as to reach them or it without being noticed
+> [^0-68]: [intransitive] (of teeth) to knock together continuously because you are cold or frightened
+> [^0-69]: [transitive, intransitive] **stamp (sth)** to put your foot down heavily and noisily on the ground
+> [^0-70]: to spend time thinking carefully about a plan or proposal
+> [^0-71]: tired and wanting to sleep
+> [^0-72]: fluent or persuasive speaking or writing.
+> [^0-73]: [transitive, intransitive] to have an idea that sth is probably true or likely to happen, especially sth bad, but without having definite proof
+> [^0-74]: [countable] the short part of sb’s leg ir arm that is left after the rest has been cut off
+> [^0-75]: 
+> [^0-76]: 
+> [^0-77]: 
+> [^0-78]: [intransitive, transitive] to bend the top part of your body forward and raise your shoulders and back
+> [^0-79]: (disapproving) in a bad mood and not speaking, either on a particular occasion or because it is part of your character
+> [^0-80]: 
+> [^0-81]: 
+> [^0-82]: 
+> [^0-83]: 
+> [^0-84]: 
+> [^0-85]:a small amount of snow, rain, etc. that falls for a short time and then stops
+> [^0-86]: 
+> [^0-87]: 
+> [^0-88]:
+> [^0-89]: 
+> [^0-90]:
+> [^0-91]:sss
+> [^0-92]:[only before noun] not aware of the possible dangers or problems of a situation and therefore likely to be harmed in some way
 >
-> [^0-54]:**to** [find](https://dictionary.cambridge.org/dictionary/english/find) **someone in the** [act](https://dictionary.cambridge.org/dictionary/english/act) **of doing something** [illegal](https://dictionary.cambridge.org/dictionary/english/illegal)
+> 
 >
-> [^0-55]:[countable] a male DEER, HARE or RABBIT
-> [^0-56]:a narrow area of high land along the top of a line of hills; a high pointed area near the top of a mountain
-> [^0-57]:type of simple structure originally added to an existing building with the rafters "leaning" against another wall
-> [^0-58]:very clearly.
-> [^0-59]:https://zh.hinative.com/questions/12901152
-> [^0-60]:(**shrugging**, **shrugged**) [intransitive, transitive, no passive] to raise your shoulders and then drop them to show that you do not know or care about sth
-> [^0-61]:[sing.] a feeling of fear
-> [^0-62]:[transitive, intransitive] to speak or say sth in a quiet voice that is difficult to hear, especially because you are annoyed about sth
-> [^0-63]:having hair that is grey or partly grey
-> [^0-64]:not showing much care or thought; seeming not to be worried; not wanting to show that sth is important to you
-> [^0-65]:a long thick curtain
-> [^0-66]:
-> [^0-67]:(of a storm, etc.) very violent, with strong winds
-> [^0-68]:to approach someone or something in a quick, sneaky, and furtive manner so as to reach them or it without being noticed
-> [^0-69]:[intransitive] (of teeth) to knock together continuously because you are cold or frightened
+> [^0-101]:[intransitive, transitive] to move, or to make sth move, slightly
 >
-> [^0-70]:[transitive, intransitive] **stamp (sth)** to put your foot down heavily and noisily on the ground
+> 
 >
-> [^0-71]:to spend time thinking carefully about a plan or proposal
-> [^0-72]:tired and wanting to sleep
-> [^0-73]:fluent or persuasive speaking or writing.
-> [^0-74]:[transitive, intransitive] to have an idea that sth is probably true or likely to happen, especially sth bad, but without having definite proof
-> [^0-75]:[countable] the short part of sb’s leg ir arm that is left after the rest has been cut off
-> [^0-76]:
-> [^0-77]:
-> [^0-78]:[intransitive, transitive] to bend the top part of your body forward and raise your shoulders and back
-> [^0-79]:(disapproving) in a bad mood and not speaking, either on a particular occasion or because it is part of your character
+> [^0-103]:
+>
+> 
+>
+> [^0-110]:[transitive] **forge sth (from sth)** to shape metal by heating it in a fire and hitting it with a HAMMER; to make an object in this way
+>
+> 
+>
+> [^0-122]:[intransitive, transitive] to move or make sth move through a narrow space, avoiding things that are in the way
+> [^0-123]:a group of bushes or small trees growing closely together
+>
+> 
+>
+> 
+>
+> 
+>
+> [^0-130]:[only before noun] just enough; the most basic or simple
+> [^0-131]:(*pl.* feet*,* foot) (*abbr*. ft) (in Britain and North America) a unit for measuring length equal to 12 inches or 30.48 CENTIMETRES
+> [^0-132]:under or below sth else, especially when it is hidden or covered by the thing on top
+>
+> 
+>
+> [^0-137]:
+> [^0-138]:**untouched (by sth)** not affected by sth, especially sth bad or unpleasant; not damaged
+> [^0-139]:hesitating before doing sth because you do not want to do it or because you are not sure that it is the right thing to do
+>
+> 
+>
+> [^0-148]:(of a person, their face, etc.) having skin that is very light in colour; having skin that has less colour than usual because of illness, a strong emotion, etc.
+>
+> 
+>
+> [^0-150]:[transitive, intransitive] to rub your skin with your nails, usually because it is ITCHING
+>
+> [^0-151]:something that confuses you so that you see, understand, remember, etc. things in the wrong way
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> 
+>
+> [^0-157]:marked with spots of a different colour; with areas of light and shade
+> [^0-158]:a sound like a long ‘s’; this sound used to show DISAPPROVAL of sb
+> [^0-159]:(of sb’s voice) sounding rough with sudden changes in how loud or high it is, because the person is upset
+> [^0-160]:allowing light to pass through but not completely clear
+> [^0-161]:a piece of broken glass, metal, etc.
+> [^0-162]:that cannot be clearly seen, heard or smelt
+> [^0-163]:a shining light that seems to move slightly
+> [^0-164]:an instrument that is used for removing hair by SHAVING
+>
+> 
+>
+> [^0-166]:despite what has just been said
+> [^0-167]:[intransitive, transitive] to stop; to make sb/sth stop
+> [^0-168]:from one end to or towards the other end of sth
+> [^0-169]:[intransitive, transitive, no passive] to play, fight, etc. together as opponents in a competition
+> [^0-170]:[transitive] **check sth** to control sth; to stop sth from increasing or getting worse
+> [^0-171]:a hard hit with the hand, a weapon, etc.
+> [^0-172]:[usually sing.] an occasion when there is a lot of activity, interest, excitement, etc. within a short period of time
+> [^0-173]:made or formed in a very careful and detailed way
+> [^0-174]:to get involved in and try to influence a situation that should not really involve you, in a way that annoys other people
+> [^0-175]:experiencing or expressing severe mental or physical pain or suffering.
+>
+> 
+>
+> [^0-178]:breathing with short, quick breaths; out of breath.
+> [^0-179]:[uncountable, countable] the physical or mental energy that you need to do sth; sth that takes a lot of energy
+>
+> 
+>
+> 
+>
+> 
+>
+> 
 >
 > 
 >
