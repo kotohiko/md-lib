@@ -243,9 +243,9 @@ Behind him, to right, to left, all around him, the watchers stood patient, facel
 
 Again and again the swords met, until Will wanted to cover his ears against the strange **anguished**[^0-175] **keening**[^0-176] of their **clash**[^0-177]. Ser Waymar was **panting**[^0-178] from the **effort**[^0-179] now, his breath steaming in the moonlight. His blade was white with frost; the Other’s danced with pale blue light.
 
-Then Royce’s **parry**[^0-180] came a beat too late. The pale sword bit through the ringmail beneath his arm. The young lord cried out in pain. Blood **welled**[^0-181] between the rings. It steamed in the cold, and the **droplets**[^0-182] seemed red as fire where they touched the snow. Ser Waymar’s fingers brushed his side. His moleskin glove came away soaked with red.
+Then Royce’s **parry**[^0-180] came a beat too late. The pale sword bit through the ringmail beneath his arm. The young lord cried out in pain. Blood **welled**[^0-181] between the rings. It steamed in the cold, and the **droplets**[^0-182] seemed red as fire where they touched the snow. Ser Waymar’s fingers brushed his **side**[^0-183]. His moleskin glove came away **soaked**[^0-184] with red.
 
-The Other said something in a language that Will did not know; his voice was like the cracking of ice on a winter lake, and the words were mocking.
+The Other said something in a language that Will did not know; his voice was like the cracking of ice on a winter lake, and the words were **mocking**[^0-185].
 
 Ser Waymar Royce found his fury. “For Robert!” he shouted, and he came up snarling, lifting the frost-covered longsword with both hands and swinging it around in a flat sidearm slash with all his weight behind it. The Other’s parry was almost lazy.
 
@@ -371,6 +371,10 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-91]:sss
 > [^0-92]:[only before noun] not aware of the possible dangers or problems of a situation and therefore likely to be harmed in some way
 >
+> [^0-93]:
+> [^0-94]:
+> [^0-95]:
+>
 > 
 >
 > [^0-101]:[intransitive, transitive] to move, or to make sth move, slightly
@@ -453,7 +457,11 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 >
 > 
 >
+> [^0-182]:a small drop of a liquid
+>
 > 
+>
+> [^0-185]:[transitive, intransitive] **mock (sb/sth) ｜mock (sb) + speech** to laugh at sb/sth in an unkind way, especially by copying what they say or do
 >
 > 
 >
