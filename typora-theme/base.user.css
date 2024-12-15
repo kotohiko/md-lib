@@ -1,12 +1,26 @@
 .CodeMirror-wrap .CodeMirror-code pre {
-	font-family: Source Code Pro Semibold;
+	font-family: Fira Code Semibold, Source Code Pro Semibold, Courier New;
 }
 
 body {
 	--monospace: Source Code Pro Semibold;
-	font-family: Crimson Text;
+	-webkit-font-smoothing: antialiased;
+	font-family: Bell MT;
 }
 
 code {
-  font-family: Courier New;
+  font-family: Fira Code Semibold, Source Code Pro Semibold, Courier New;
+}
+
+#write {
+	font-family: Bell MT;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: Bell MT;
 }
