@@ -25,7 +25,11 @@
 
 
 
-<center>this one is for Melinda</center>
+
+
+
+
+<center><h3>this one is for Melinda<h3></center>
 
 
 
@@ -247,17 +251,17 @@ Then Royce’s **parry**[^0-180] came a beat too late. The pale sword bit throug
 
 The Other said something in a language that Will did not know; his voice was like the cracking of ice on a winter lake, and the words were **mocking**[^0-185].
 
-Ser Waymar Royce found his fury. “For Robert!” he shouted, and he came up snarling, lifting the frost-covered longsword with both hands and swinging it around in a flat sidearm slash with all his weight behind it. The Other’s parry was almost lazy.
+Ser Waymar Royce found his **fury**[^0-186]. “For Robert!” he shouted, and he came up **snarling**[^0-187], lifting the frost-covered longsword with both hands and swinging it around in a flat **sidearm**[^0-188] slash with all his weight behind it. The Other’s parry was almost lazy.
 
-When the blades touched, the steel shattered.
+When the blades touched, the steel **shattered**[^0-189].
 
-A scream echoed through the forest night, and the longsword shivered into a hundred brittle pieces, the shards scattering like a rain of needles. Royce went to his knees, shrieking, and covered his eyes. Blood welled between his fingers.
+A scream echoed through the forest night, and the longsword shivered into a hundred **brittle**[^0-190] pieces, the shards **scattering**[^0-191] like a rain of needles. Royce went to his knees, **shrieking**[^0-192], and covered his eyes. Blood **welled**[^0-193] between his fingers.
 
-The watchers moved forward together, as if some signal had been given. Swords rose and fell, all in a deathly silence. It was cold butchery. The pale blades sliced through ringmail as if it were silk. Will closed his eyes. Far beneath him, he heard their voices and laughter sharp as icicles.
+The watchers moved forward together, as if some signal had been given. Swords rose and fell, all in a deathly silence. It was cold **butchery**[^0-194]. The pale blades sliced through ringmail as if it were silk. Will closed his eyes. Far beneath him, he heard their voices and laughter sharp as **icicles**[^0-195].
 
 When he found the courage to look again, a long time had passed, and the ridge below was empty.
 
-He stayed in the tree, scarce daring to breathe, while the moon crept slowly across the black sky. Finally, his muscles cramping and his fingers numb with cold, he climbed down.
+He stayed in the tree, **scarce**[^0-196] daring to breathe, while the moon **crept**[^0-197] slowly across the black sky. Finally, his muscles **cramping**[^0-198] and his fingers numb with cold, he climbed down.
 
 Royce’s body lay facedown in the snow, one arm outflung. The thick sable cloak had been slashed in a dozen places. Lying dead like that, you saw how young he was. A boy.
 
@@ -342,7 +346,7 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-62]: having hair that is grey or partly grey
 > [^0-63]: not showing much care or thought; seeming not to be worried; not wanting to show that sth is important to you
 > [^0-64]: a long thick curtain
-> [^0-65]: 
+> [^0-65]:
 > [^0-66]: (of a storm, etc.) very violent, with strong winds
 > [^0-67]: to approach someone or something in a quick, sneaky, and furtive manner so as to reach them or it without being noticed
 > [^0-68]: [intransitive] (of teeth) to knock together continuously because you are cold or frightened
@@ -383,6 +387,10 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 >
 > [^0-103]:
 >
+> [^0-105]:to a great extent or degree
+>
+> 
+>
 > 
 >
 > [^0-110]:[transitive] **forge sth (from sth)** to shape metal by heating it in a fire and hitting it with a HAMMER; to make an object in this way
@@ -401,6 +409,8 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-130]:[only before noun] just enough; the most basic or simple
 > [^0-131]:(*pl.* feet*,* foot) (*abbr*. ft) (in Britain and North America) a unit for measuring length equal to 12 inches or 30.48 CENTIMETRES
 > [^0-132]:under or below sth else, especially when it is hidden or covered by the thing on top
+>
+> [^0-133]:[transitive, intransitive] to make a long cut with a sharp object, especially in a violent way
 >
 > 
 >
@@ -455,6 +465,8 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-178]:breathing with short, quick breaths; out of breath.
 > [^0-179]:[uncountable, countable] the physical or mental energy that you need to do sth; sth that takes a lot of energy
 >
+> [^0-180]:[transitive, intransitive] **parry (sth)** to defend yourself against sb who is attacking you by pushing their arm, weapon, etc. to one side
+>
 > 
 >
 > [^0-182]:a small drop of a liquid
@@ -462,10 +474,22 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > 
 >
 > [^0-185]:[transitive, intransitive] **mock (sb/sth) ｜mock (sb) + speech** to laugh at sb/sth in an unkind way, especially by copying what they say or do
+> [^0-186]:[uncountable] extreme anger that often includes violent behaviour
+> [^0-187]:[transitive] to speak in a rough, low, angry voice
+> [^0-188]:an individual-served [weapon](https://en.wikipedia.org/wiki/Weapon) that is kept at one's side and can be rapidly accessed if needed.
+> [^0-189]:[intransitive, transitive] to suddenly break into small pieces; to make sth suddenly break into small pieces
+> [^0-190]:hard but easily broken
+> [^0-191]:[transitive] to throw or drop things in different directions so that they cover an area of ground
 >
 > 
 >
-> 
+> [^0-193]:**well (up)** (of a liquid) to rise to the surface of sth and start to flow
+> [^0-194]:cruel, violent and unnecessary killing
+> [^0-195]:a pointed piece of ice that is formed when water freezes as it falls down from sth such as a roof
+> [^0-196]:only just; almost not
+> [^0-197]:[intransitive] **(+ adv./prep.)** to move or develop very slowly
+>
+> [^0-198]:[uncountable, countable] a sudden pain that you get when the muscles in a particular part of your body contract, usually caused by cold or too much exercise
 >
 > 
 >
