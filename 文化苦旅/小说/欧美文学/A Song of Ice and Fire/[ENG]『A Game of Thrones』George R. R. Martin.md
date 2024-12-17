@@ -265,15 +265,15 @@ He stayed in the tree, **scarce**[^0-196] daring to breathe, while the moon **cr
 
 Royce’s body lay facedown in the snow, one arm outflung. The thick sable cloak had been slashed in a dozen places. Lying dead like that, you saw how young he was. A boy.
 
-He found what was left of the sword a few feet away, the end splintered and twisted like a tree struck by lightning. Will knelt, looked around warily, and snatched it up. The broken sword would be his proof. Gared would know what to make of it, and if not him, then surely that old bear Mormont or Maester Aemon. Would Gared still be waiting with the horses? He had to hurry.
+He found what was left of the sword a few feet away, the end **splintered**[^0-199] and twisted like a tree struck by lightning. Will knelt, looked around warily, and **snatched**[^0-200] it up. The broken sword would be his proof. Gared would know what to make of it, and if not him, then surely that old bear Mormont or Maester Aemon. Would Gared still be waiting with the horses? He had to hurry.
 
 Will rose. Ser Waymar Royce stood over him.
 
-His fine clothes were a tatter, his face a ruin. A shard from his sword transfixed the blind white pupil of his left eye.
+His fine clothes were a **tatter**[^0-201], his face a ruin. A shard from his sword **transfixed**[^0-202] the blind white **pupil**[^0-203] of his left eye.
 
 The right eye was open. The pupil burned blue. It saw.
 
-The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long, elegant hands brushed his cheek, then tightened around his throat. They were gloved in the finest moleskin and sticky with blood, yet the touch was icy cold.
+The broken sword fell from **nerveless**[^0-204] fingers. Will closed his eyes to pray. Long, elegant hands brushed his cheek, then tightened around his throat. They were gloved in the finest moleskin and sticky with blood, yet the touch was icy cold.
 
 
 
@@ -490,6 +490,9 @@ The broken sword fell from nerveless fingers. Will closed his eyes to pray. Long
 > [^0-197]:[intransitive] **(+ adv./prep.)** to move or develop very slowly
 >
 > [^0-198]:[uncountable, countable] a sudden pain that you get when the muscles in a particular part of your body contract, usually caused by cold or too much exercise
+>
+> [^0-199]: [intransitive, transitive] (of wood, glass, stone, etc.) to break, or to make sth break, into small, thin, sharp pieces
+> [^0-204]:having no strength or feeling
 >
 > 
 >
