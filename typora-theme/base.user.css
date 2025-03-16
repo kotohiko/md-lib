@@ -5,7 +5,7 @@
 body {
 	--monospace: Source Code Pro Semibold;
 	-webkit-font-smoothing: antialiased;
-	font-family: Bell MT;
+	font-family: Cambria;
 }
 
 code {
@@ -13,7 +13,7 @@ code {
 }
 
 #write {
-	font-family: Bell MT;
+	font-family: Cambria;
 }
 
 h1,
@@ -22,5 +22,5 @@ h3,
 h4,
 h5,
 h6 {
-	font-family: Bell MT;
+	font-family: Cambria;
 }
